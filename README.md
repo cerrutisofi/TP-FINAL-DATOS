@@ -15,3 +15,4 @@
 | MACHINE LEARNING |  scikit-learn |
 | EXPLICABILIDAD |  SHAP (Shapley Additive exPlanations) |
 | NOTEBOOKS |  jupyter lab |
+| API/SERVE |  fastapi, uvicorn |
