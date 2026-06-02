@@ -1,5 +1,4 @@
-﻿sep=;
-año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
+﻿año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2017;Villa Martelli;BOMBEROS VOLUNTARIOS DE VICENTE LÓPEZ - 25 equipos de estructurales para intervenir en incendios;Seguridad;959;978500;1
 2017;Villa Martelli;CAMPAÑA DE CONCIENTIZACIÓN SOBRE EL BULLYING - Talleres teatrales en escuelas del barrio;Cultura;506;193892;1
 2017;Villa Martelli;FUNDACION CAMINO - Remodelación interior y fachada;Reparaciones/Obra;487;1500000;1
@@ -31,7 +30,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2017;Florida Oeste;ESCUELA PRIMARIA Nº 5 (provincial) - Equipamiento para la videoteca y las aulas;Educación;250;494000;0
 2017;Florida Oeste;BIBLIOTECA SOCIAL MARIANO MORENO (Soc. Fom Florida Sud) - Reparación de cubierta y de un baño;Cultura;225;266000;1
 2017;Florida Oeste;SEMÁFORO Y SEÑALIZACIÓN - Desde Güemes y Posadas hasta Roca y Posadas (sendero escolar);Movilidad;206;597500;0
-2017;Florida Oeste;ACER - Red CONIN - Rehabilitar y acondicionar un baño y construir una galería techada;Social;197;440000;0
+2017;Florida Oeste;ACER - Red CONIN - Rehabilitar y acondicionar un baño y construir una galería techada;Otros/Varios;197;440000;0
 2017;Florida Oeste;JARDÍN MATERNAL MUNICIPAL Nº 5 - Ampliar el SUM y construir un espacio para la Dirección;Salud;196;890000;0
 2017;Florida Oeste;CÁMARAS DE VIGILANCIA - Conectadas al Centro de Monitoreo Municipal (opción 2);Seguridad;188;1090000;0
 2017;Florida Oeste;SEMÁFOROS VEHICULARES Y PEATONALES - Av. Mitre e Italia;Movilidad;172;549100;0
@@ -110,7 +109,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2017;Olivos;BOMBEROS VOLUNTARIOS DE VL - Compra de 10 equipos de respiración autónoma para intervenir en incendios;Seguridad;2832;1500000;1
 2017;Olivos;ESCUELA PRIMARIA Nº 2 - Obras en baños, reparación de instalación eléctrica y equipamiento;Educación;1468;2000000;1
 2017;Olivos;JARDÍN MATERNAL MUNICIPAL Nº 9 - Modificación de las puertas de las aulas, refacción del patio y construcción de una superficie semicubierta;Salud;1222;660000;1
-2017;Olivos;FUNDACION HOSPICE SAN CAMILO - Trabajos de pintura interior y refacciones en la enfermería;Reparaciones/Obra;1130;195000;1
+2017;Olivos;FUNDACION HOSPICE SAN CAMILO - Trabajos de pintura interior y refacciones en la enfermería;Salud;1130;195000;1
 2017;Olivos;GRUPO SCOUT NTRA SRA DE LA PAZ - Nivelar el patio y reparar la vereda;Espacio Público;1033;385000;1
 2017;Olivos;CLUB DEFENSORES DE OLIVOS;Deporte;940;1955000;1
 2017;Olivos;ESC DE EDUCACIÓN ESPECIAL Nº 502 - Equipamiento para educación física y música;Cultura;915;876000;1
@@ -141,7 +140,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2017;Vicente Lopez;ESCUELA SECUNDARIA Nº 6 - Remodelación de baños y pintura de pasillos;Educación;887;1500000;1
 2017;Vicente Lopez;CÁMARAS DE VIGILANCIA - Conectadas al Centro de Monitoreo Municipal;Seguridad;580;1118030;1
 2017;Vicente Lopez;ESCUELA PRIMARIA Nº 8 - Remodelación de 3 grupos de baños;Educación;553;485000;0
-2017;Vicente Lopez;RAMPAS EN ESQUINAS - circuitos accesibles en distintas zonas del barrio;Reparaciones/Obra;360;1500000;0
+2017;Vicente Lopez;RAMPAS EN ESQUINAS - circuitos accesibles en distintas zonas del barrio;Movilidad;360;1500000;0
 2017;Vicente Lopez;CTRO RECREATIVO DE LA 3ª EDAD - Reparación de vestuarios y cubierta sobre cancha de tejo;Deporte;263;1740000;0
 2017;Vicente Lopez;CONCIENCIA AMBIENTAL - Campaña en el Paseo de la Costa;Medio Ambiente;218;200000;1
 2017;Vicente Lopez;CTRO RECREATIVO DE LA 3ª EDAD - Mesas, sillas y lockers de guardado;Social;208;102875;1
@@ -150,7 +149,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;VILLA ADELINA;AVAPEA (Asoc Vecinos y Amigos de la Plaza E Ader): 3º etapa del salón de usos múltiples.;Espacio Público;845;2500000;1
 2019;VILLA ADELINA;Escuela de Educación Técnica Nº 1: poner en valor aulas del 1º piso. Equipos multimedia.;Educación;568;3000000;1
 2019;VILLA ADELINA;Escuela Secundaria Nº 11: equipos de aire acondicionado con instalación eléctrica. Proyector e instrumentos musicales.;Cultura;393;680000;1
-2019;VILLA ADELINA;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;375;1476923;0
+2019;VILLA ADELINA;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;375;1476923;0
 2019;VILLA ADELINA;Jardín de Infantes N° 7: sistema de climatización y tecnología.;Educación;314;387000;0
 2019;VILLA ADELINA;Polideportivo de Villa Adelina: compra de un grupo electrógeno.;Deporte;229;1150000;0
 2019;VILLA ADELINA;Club de Leones de Villa Adelina: 2 nuevos aires acondicionados.;Deporte;214;430000;0
@@ -164,7 +163,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;VILLA MARTELLI;Escuela Secundaria Nº 2: renovación de equipamiento informático. Pintura del patio. Provisión de mobiliario.;Educación;767;3000000;1
 2019;VILLA MARTELLI;Jardín de Infantes Nº 918: equipamiento tecnológico;Educación;603;370000;1
 2019;VILLA MARTELLI;Centro de Fomento Cultural y Deportivo Padilla: reformas en vestuarios, baños y cocina.;Cultura;596;3000000;0
-2019;VILLA MARTELLI;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;501;3000000;0
+2019;VILLA MARTELLI;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;501;3000000;0
 2019;VILLA MARTELLI;Escuela Primaria Nº 20: espacio de usos múltiples ;Educación;436;3000000;0
 2019;VILLA MARTELLI;Jardín Maternal Municipal Nº 1: material didáctico y equipamiento para la cocina.;Salud;375;275000;1
 2019;VILLA MARTELLI;Centro Barrial Infantil Habana: ampliación de la sala de computación;Educación;375;550000;1
@@ -175,22 +174,22 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;VILLA MARTELLI;Escuela Primaria Nº 11: reparación y cambio de persianas de enrollar.;Educación;224;483000;1
 2019;VILLA MARTELLI;La ecología empieza por casa: talleres de reciclaje.;Cultura;216;260000;1
 2019;VILLA MARTELLI;Barrio Habana: reparación de rejas perimetrales.;Reparaciones/Obra;200;3000000;0
-2019;VILLA MARTELLI;Centro Municipal de Capacitación Laboral: renovación de baños.;Social;193;2055000;0
+2019;VILLA MARTELLI;Centro Municipal de Capacitación Laboral: renovación de baños.;Otros/Varios;193;2055000;0
 2019;VILLA MARTELLI;Artistas Plásticos de Villa Martelli: mobiliario y materiales para los cursos.;Cultura;192;175000;1
 2019;VILLA MARTELLI;Centro de la 3 edad Unidos en Armonía: Pintura interna.;Reparaciones/Obra;154;1239000;0
-2019;VILLA MARTELLI;Rampas en esquinas para mejorar la accesibilidad.;Reparaciones/Obra;153;2392500;0
+2019;VILLA MARTELLI;Rampas en esquinas para mejorar la accesibilidad.;Movilidad;153;2392500;0
 2019;VILLA MARTELLI;Semáforos completos en Zufriategui y Bolivia.;Movilidad;84;706622;0
 2019;VILLA MARTELLI;Plazas infantiles para los niños y adolescentes (sobre Juan B. de Lasalle): renovación de juegos y mejoramiento del mobiliario.;Educación;71;3000000;0
 2019;VILLA MARTELLI;Reductores de velocidad Lavalle y Uruguay.;Movilidad;52;43400;0
 2019;FLORIDA OESTE;Escuela de Educación Técnica Nº 4: reacondicionar aulas de talleres.;Cultura;1032;3000000;1
 2019;FLORIDA OESTE;Club Atlético Colegiales: reformas en el Gimnasio.;Deporte;842;3000000;1
-2019;FLORIDA OESTE;ACER (Red CONIN): galería techada, piso y reacondicionamiento de baños para la primera infancia.;Social;841;3000000;1
+2019;FLORIDA OESTE;ACER (Red CONIN): galería techada, piso y reacondicionamiento de baños para la primera infancia.;Reparaciones/Obra;841;3000000;1
 2019;FLORIDA OESTE;Club Unión Florida: generar un espacio para un nuevo gimnasio.;Deporte;708;3000000;1
 2019;FLORIDA OESTE;Jardín Maternal Municipal Nº 5: equipamiento tecnológico y para la cocina.;Salud;576;287000;0
 2019;FLORIDA OESTE;"Jardín de Infantes ""Conejín"" (Barrio Las Flores): renovación del patio de juegos.";Educación;513;1560000;0
 2019;FLORIDA OESTE;Escuela Secundaria Básica Nº 8: cambiar puerta de ingreso, reparar filtraciones y equipamiento para las aulas.;Educación;476;3000000;0
 2019;FLORIDA OESTE;Talleres de Educación Sexual Integral, Violencia de Género y Reciclaje en escuelas secundarias del barrio.;Cultura;448;520000;0
-2019;FLORIDA OESTE;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;422;3000000;0
+2019;FLORIDA OESTE;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;422;3000000;0
 2019;FLORIDA OESTE;Jardín de Infantes Nº 908: aire acondicionado el SUM, piso de goma y patio de juegos.;Educación;372;637000;0
 2019;FLORIDA OESTE;Las Flores: mi barrio, mi hogar: identificación de viviendas y señalización dentro del barrio.;Movilidad;349;3000000;0
 2019;FLORIDA OESTE;Florida Club: adaptación del edificio para personas con movilidad reducida.;Deporte;335;3000000;0
@@ -203,7 +202,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;FLORIDA OESTE;Jardín Maternal Municipal Nº 3: remodelación del patio y piso antigolpes.;Salud;256;678000;0
 2019;FLORIDA OESTE;Unión Vecinal Amigos de Florida Oeste (UVAFO): mejoramiento del Salón de Usos Múltiples.;Social;229;1300000;0
 2019;FLORIDA OESTE;Jardín de Infantes Nº 912: aire acondicionado en dirección, piso antigolpes en el SUM.;Educación;180;395000;0
-2019;FLORIDA OESTE;Rampas en esquinas para mejorar la accesibilidad.;Reparaciones/Obra;157;2536050;0
+2019;FLORIDA OESTE;Rampas en esquinas para mejorar la accesibilidad.;Movilidad;157;2536050;0
 2019;FLORIDA OESTE;"Escuela de Capacitación Municipal ""Llobet"": equipamiento tecnológico.";Educación;155;1095000;0
 2019;FLORIDA OESTE;"Centro de Jubilados ""Amor y Amistad"": puerta de ingreso y provisión de sillas para actividades.";Social;112;540000;0
 2019;FLORIDA OESTE;Cestos de basura en la vía pública.;Medio Ambiente;106;1522500;0
@@ -211,15 +210,15 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;FLORIDA OESTE;Refugios para paradas de colectivo de la línea municipal del Bicentenario.;Movilidad;99;3000000;0
 2019;FLORIDA OESTE;Centro Barrial Infantil Las Flores: materiales didácticos.;Educación;93;298000;0
 2019;FLORIDA OESTE;Reposición de luminarias en Sargento Cabral entre Francia e H. Yrigoyen;Reparaciones/Obra;87;120000;1
-2019;FLORIDA OESTE;Mejorando nuestros espacios comunes en el Barrio de Las Flores.;Social;78;3000000;0
+2019;FLORIDA OESTE;Mejorando nuestros espacios comunes en el Barrio de Las Flores.;Otros/Varios;78;3000000;0
 2019;FLORIDA OESTE;Semáforo en Carlos Calvo e H. Yrigoyen y en Mitre y Esmeralda;Movilidad;55;2137856;0
 2019;FLORIDA OESTE;Escuela de Adultos Nº 702: equipamiento tecnológico, materiales para deporte, mobiliario.;Educación;52;389000;0
 2019;FLORIDA OESTE;Pintura de dársenas en la calzada para colectivos sobre San Martín y sobre Yrigoyen (desde Constituyentes hasta Echeverría).;Reparaciones/Obra;47;1050000;0
 2019;FLORIDA OESTE;Reductores de velocidad calle Francia, de E. Echeverría hasta Av Mitre.;Movilidad;43;303800;0
-2019;OLIVOS;Asociación Vecinal CIRES Norte: remodelación de  vestuarios.;Reparaciones/Obra;2223;3000000;1
+2019;OLIVOS;Asociación Vecinal CIRES Norte: remodelación de  vestuarios.;Salud;2223;3000000;1
 2019;OLIVOS;"Sociedad de Fomento ""12 de Octubre"": construcción de un SUM.";Reparaciones/Obra;1376;3000000;1
-2019;OLIVOS;Hospice San Camilo: reparación de la cubierta.;Reparaciones/Obra;1233;3000000;1
-2019;OLIVOS;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;1057;3000000;1
+2019;OLIVOS;Hospice San Camilo: reparación de la cubierta.;Salud;1233;3000000;1
+2019;OLIVOS;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;1057;3000000;1
 2019;OLIVOS;Colegio Virgen del Carmen: baño para personas con movilidad reducida y reparaciones en baños.;Educación;982;3000000;0
 2019;OLIVOS;Jardín de Infantes Municipal Nº 6: equipamiento tecnológico.;Educación;937;531000;1
 2019;OLIVOS;Escuela Primaria Nº 2: reparación de patio de juegos.;Educación;885;3000000;0
@@ -227,7 +226,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;OLIVOS;Escuela Primaria Nº 31 y Escuela Secundaria Nº 10: remodelación de baños y pintura interior.;Educación;853;3000000;0
 2019;OLIVOS;Escuela Primaria Nº 1 y Escuela Secundaria Nº 1: construcción de rampas. Baños para personas con movilidad reducida. Cambio de puertas.;Educación;814;3000000;0
 2019;OLIVOS;Escuela de Educación Técnica Nº 3: equipamiento de aula de multimedios.;Educación;799;3000000;0
-2019;OLIVOS;APIAD (Centro de día de protección integral al discapacitado): adquisición de un grupo electrógeno.;Social;723;685000;1
+2019;OLIVOS;APIAD (Centro de día de protección integral al discapacitado): adquisición de un grupo electrógeno.;Otros/Varios;723;685000;1
 2019;OLIVOS;Jardin de Infantes Nº 10 - Jardín Maternal Nº 12 (Municipales): cerramiento de un sector de la azotea.;Salud;717;3000000;0
 2019;OLIVOS;Campo Municipal de Deportes Nº 1: techado de la pileta infantil.;Educación;611;3000000;0
 2019;OLIVOS;Jardín de Infantes Municipal Nº 9: renovación de los baños.;Educación;592;2600000;0
@@ -239,7 +238,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;OLIVOS;Club Defensores de Olivos: remodelación del quincho.;Deporte;404;2070000;0
 2019;OLIVOS;"Grupo Scout ""H. Bouchard"": techado del patio de juegos.";Social;363;280400;0
 2019;OLIVOS;Asociación Civil Emprender: equipamiento para 'Lavadero Los Artesanos'.;Cultura;336;1200000;0
-2019;OLIVOS;Rampas en esquinas para mejorar la accesibilidad.;Reparaciones/Obra;332;2871000;0
+2019;OLIVOS;Rampas en esquinas para mejorar la accesibilidad.;Movilidad;332;2871000;0
 2019;OLIVOS;Jardín Maternal Municipal Nº 16: plaza blanda y equipamiento tecnológico.;Salud;321;566000;0
 2019;OLIVOS;Instituto Superior de Música José Hernández (Municipal): instrumentos para conciertos. ;Cultura;294;342000;0
 2019;OLIVOS;Biblioteca Popular de Olivos: rampa para el acceso al edificio para personas con movilidad reducida.;Cultura;292;907000;0
@@ -253,7 +252,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;OLIVOS;Centro Barrial de Juventud La Loma: impresora 3D y computadoras para el taller de robótica.;Social;159;778000;0
 2019;OLIVOS;Manos a la masa: taller de alimentación saludable en escuelas.;Salud;141;180000;1
 2019;OLIVOS;Plaza para niños en Chacabuco 2470: puesta en valor.;Espacio Público;79;1332141;0
-2019;OLIVOS;Centro de Investigación Histórica Vicente López: provisión de equipamiento tecnólogico.;Social;78;314500;0
+2019;OLIVOS;Centro de Investigación Histórica Vicente López: provisión de equipamiento tecnólogico.;Otros/Varios;78;314500;0
 2019;OLIVOS;Reductores de velocidad y señalizacion sobre la calle Bermudez desde Colectora hasta Cnel Uzal.;Movilidad;71;217000;0
 2019;OLIVOS;Plaza de los Inmigrantes: reparacion de cerco divisorio entre la plaza y las casas linderas.;Espacio Público;55;1287000;0
 2019;OLIVOS;Plaza Vicente Querido: reforma y equipamiento (sujeto a la aprobación de FFCC).;Espacio Público;37;1468513;0
@@ -262,13 +261,13 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;VICENTE LÓPEZ;Escuela Secundaria Nº 6: remodelación de baños (2ª etapa);Educación;640;2400000;1
 2019;VICENTE LÓPEZ;Centro Recreativo de Adultos Mayores Activos: aire acondicionado en salones y provisión de divisiones móviles.;Social;489;1400000;1
 2019;VICENTE LÓPEZ;Parque de Calistenia en el vial costero.;Movilidad;386;575000;1
-2019;VICENTE LÓPEZ;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;383;768431;1
+2019;VICENTE LÓPEZ;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;383;768431;1
 2019;VICENTE LÓPEZ;Instituto Bignone: horno para el taller de cerámica.;Educación;279;328000;1
 2019;VICENTE LÓPEZ;Escuela Primaria N° 8: pintura y arreglo de paredes en general.;Educación;272;3000000;0
 2019;VICENTE LÓPEZ;Rampas en esquinas.;Reparaciones/Obra;249;2775300;0
 2019;VICENTE LÓPEZ;Cestos de basura en la vía pública.;Medio Ambiente;223;1522500;1
-2019;VICENTE LÓPEZ;Mejorar el mobiliario urbano en el Paseo Costero de Vicente López.;Social;144;360000;0
-2019;VICENTE LÓPEZ;Senderos del Sembrador: espacio de kinefilaxis y rehabilitación física.;Social;142;394000;0
+2019;VICENTE LÓPEZ;Mejorar el mobiliario urbano en el Paseo Costero de Vicente López.;Espacio Público;144;360000;0
+2019;VICENTE LÓPEZ;Senderos del Sembrador: espacio de kinefilaxis y rehabilitación física.;Salud;142;394000;0
 2019;VICENTE LÓPEZ;La ecología empieza por casa: talleres de reciclaje.;Cultura;138;240000;0
 2019;VICENTE LÓPEZ;Estacionamiento para personas con discapacidad: señalizar en Av. Maipú desde Zufriategui hasta Malaver (sobre algunas calles transversales).;Movilidad;67;1176000;0
 2019;VICENTE LÓPEZ;"Centro de Jubilados ""Encuentro de amigos felices"": mueble para guardado.";Social;55;36000;0
@@ -276,7 +275,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;VICENTE LÓPEZ;"Pórtico con anuncio de comienzo ""Metrobus Norte"" sobre Av. Maipú.";Movilidad;39;3000000;0
 2019;CARAPACHAY;Bomberos Voluntarios de Vicente López: equipamiento para el Destacamento de Carapachay.;Seguridad;1874;3000000;1
 2019;CARAPACHAY;Unión Vecinal 25 de Mayo: mejoras edilicias.;Reparaciones/Obra;1254;3000000;1
-2019;CARAPACHAY;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;757;3000000;1
+2019;CARAPACHAY;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;757;3000000;1
 2019;CARAPACHAY;Escuela Primaria N° 18: renovación de baños.;Educación;687;2500000;0
 2019;CARAPACHAY;Escuela Secundaria Nº 3: equipos de climatización frío-calor.;Educación;524;2000000;0
 2019;CARAPACHAY;Centro de Jubilados y pensionados de Carapachay: equipamiento.;Social;356;750000;1
@@ -289,7 +288,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;MUNRO;Centro Comercial de Munro: puesta en valor de veredas (comenzando por Vélez Sársfield, zona oeste).;Espacio Público;1409;3000000;1
 2019;MUNRO;Biblioteca Tecnológica Pública (Almafuerte 4600): tercera etapa.;Cultura;978;3000000;1
 2019;MUNRO;Escuela Primaria Nº 19: equipos de aire acondicionado. Reparar baños. Pintura en patios.;Educación;962;3000000;1
-2019;MUNRO;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;937;3000000;1
+2019;MUNRO;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;937;3000000;1
 2019;MUNRO;Sociedad de Fomento y Cultura Grossville: construcción de una losa.;Cultura;864;1435000;1
 2019;MUNRO;Centro de exploración musical: construcción de una sala de ensayos para grupos de músicos.;Cultura;835;3000000;0
 2019;MUNRO;Club Unión Munro: cambio de luminarias. Revisión instalación eléctrica. Reparación vereda.;Deporte;816;2450000;0
@@ -312,7 +311,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;MUNRO;Semáforos en Av. Mitre y  G. Spano y en C. de Coquimbo y San Lorenzo.;Movilidad;187;2341822;0
 2019;MUNRO;Centro Barrial de Juventud Munro: modernización de las computadoras de la sala de informática.;Social;166;1045000;0
 2019;MUNRO;Escuela Primaria Nº 30: equipamiento informatico y pintura interior.;Educación;160;3000000;0
-2019;MUNRO;Mural con la historia del barrio de Munro en el nuevo túnel bajo nivel.;Social;99;650000;0
+2019;MUNRO;Mural con la historia del barrio de Munro en el nuevo túnel bajo nivel.;Cultura;99;650000;0
 2019;MUNRO;Plaza en Cosme Argerich y Juramento: puesta en valor.;Espacio Público;94;2268171;0
 2019;MUNRO;Señalización vial horizontal en Sívori desde Av. Mitre hasta Albarellos.;Movilidad;94;355306;0
 2019;MUNRO;Señalización de paradas de colectivos en la calzada en Ugarte entre Av. Mitre y Echeverría (pintura de dársenas).;Cultura;88;420000;0
@@ -321,16 +320,16 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;FLORIDA ESTE;Cruz Roja Argentina: remodelación de la sede.;Salud;2100;3000000;1
 2019;FLORIDA ESTE;Club Social y Deportivo Caseros: mejorar el piso del SUM y vestuarios.;Deporte;2059;3000000;1
 2019;FLORIDA ESTE;Florida Tenis Club: reforma integral del salón y la cocina y renovación de baños (abierto a la comunidad).;Deporte;1370;3000000;1
-2019;FLORIDA ESTE;APOVILO (Asoc Pacientes Oncológicos de Vicente López): adquisición de un vehículo de traslado de personas.;Social;974;1540000;1
+2019;FLORIDA ESTE;APOVILO (Asoc Pacientes Oncológicos de Vicente López): adquisición de un vehículo de traslado de personas.;Salud;974;1540000;1
 2019;FLORIDA ESTE;Club Villa Pearson: vestuarios y adecuación para personas con discapacidad.;Deporte;917;3000000;0
 2019;FLORIDA ESTE;Escuela Primaria Nº 12: remodelación de baños de planta baja y 1º piso.;Educación;900;3000000;0
 2019;FLORIDA ESTE;Escuela Primaria Nº 13: mejoras en el comedor, cocina y equipamiento.;Educación;787;2000000;0
 2019;FLORIDA ESTE;Asociación Seguir Creciendo: remodelación de la cocina.;Reparaciones/Obra;760;1200000;0
 2019;FLORIDA ESTE;Escuela Secundaria Nº 8: reparaciones estructurales. Sala de Música. Equipamiento tecnológico.;Cultura;633;3000000;0
 2019;FLORIDA ESTE;Escuela Secundaria Nº 7: mejoras edilicias y equipamiento.;Educación;588;3000000;0
-2019;FLORIDA ESTE;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Seguridad;568;738461;1
-2019;FLORIDA ESTE;Rampas en esquinas para mejorar la accesibilidad.;Reparaciones/Obra;526;3000000;0
-2019;FLORIDA ESTE;Cuidado y respeto van de la mano: buen trato a los animales de compañía.;Social;510;450000;0
+2019;FLORIDA ESTE;Seguridad del barrio: mejorar el equipamiento de tecnológico.;Salud;568;738461;1
+2019;FLORIDA ESTE;Rampas en esquinas para mejorar la accesibilidad.;Movilidad;526;3000000;0
+2019;FLORIDA ESTE;Cuidado y respeto van de la mano: buen trato a los animales de compañía.;Medio Ambiente;510;450000;0
 2019;FLORIDA ESTE;Jardín de Infantes Nº 903: reparaciones de albañilería y pintura interior.;Educación;501;2000000;0
 2019;FLORIDA ESTE;Jardín Maternal Nº 10: modificar SUM, cambiando puerta corrediza y toldo en patio.;Salud;479;838000;0
 2019;FLORIDA ESTE;Centro de Formación Integral Nº 1: remodelación en cocina y equipamiento.;Educación;468;1248000;0
@@ -347,8 +346,8 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;FLORIDA ESTE;Reloj Plaza Remedios de Escalada en Florida Mitre.;Espacio Público;62;100000;0
 2019;LA LUCILA;Sociedad de Fomento de La Lucila: reforma del SUM de planta alta.;Social;992;1850000;1
 2019;LA LUCILA;Jardín de Infantes Municipal N° 8: equipamiento, materiales didácticos, pintura y acondicionamiento del patio.;Educación;267;985000;1
-2019;LA LUCILA;Observatorio de aves y mirador en Parque Temático Eólico La Lucila.;Espacio Público;225;2000000;1
-2019;LA LUCILA;UAP EL CEIBO: Construcción de un nuevo espacio para consultorio.;Reparaciones/Obra;212;3000000;1
+2019;LA LUCILA;Observatorio de aves y mirador en Parque Temático Eólico La Lucila.;Medio Ambiente;225;2000000;1
+2019;LA LUCILA;UAP EL CEIBO: Construcción de un nuevo espacio para consultorio.;Salud;212;3000000;1
 2019;LA LUCILA;Centro Barrial Infantil El Ceibo: patio interno y materiales didácticos.;Educación;146;689000;1
 2019;LA LUCILA;Escuela Primaria Nº16: pintura interna, piso de dirección y secretaría.;Educación;128;3000000;0
 2019;LA LUCILA;Mejoremos los Puntos Verdes de residuos reciclables (puntos de reciclado automático);Medio Ambiente;111;600000;1
@@ -360,7 +359,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2019;LA LUCILA;Plan de fomento de lectura en la primera infancia;Educación;48;80000;1
 2021;Carapachay;Bomberos Voluntarios de Vicente López;Seguridad;332;5000000;1
 2021;Carapachay;Unión Vecinal 25 de Mayo;Social;99;2680000;1
-2021;Carapachay;Seguridad en el barrio;Seguridad;94;5000000;1
+2021;Carapachay;Seguridad en el barrio;Salud;94;5000000;1
 2021;Carapachay;Jardín de Infantes N° 916 (Provincial);Educación;92;2100000;1
 2021;Carapachay;Sociedad de Fomento Drysdale;Social;90;2435000;1
 2021;Carapachay;Escuela Primaria N° 18 (Provincial);Educación;71;2200000;0
@@ -371,7 +370,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Carapachay;Huerta Comunitaria ;Medio Ambiente;14;226650;0
 2021;Carapachay;"Centro de Jubilados ""Unión Fraternal de Carapachay""";Social;12;104400;1
 2021;Carapachay;Semáforo peatonal y pintado de senda.;Movilidad;11;1680000;0
-2021;Carapachay;Carapachay cumplió 80 años;Social;9;245000;0
+2021;Carapachay;Carapachay cumplió 80 años;Otros/Varios;9;245000;0
 2021;Carapachay;La ecología comienza por casa;Medio Ambiente;9;336000;0
 2021;Carapachay;Asociación Amigos de la Estación Carapachay;Social;6;302000;0
 2021;Carapachay;Centro Cultural Carapachay;Cultura;5;675000;0
@@ -379,15 +378,15 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Florida Este;Teatro de Repertorio del Norte;Cultura;210;1700000;1
 2021;Florida Este;Cruz Roja Argentina - Filial Vicente López;Salud;180;5000000;1
 2021;Florida Este;Club Defensores de Florida;Deporte;163;5000000;1
-2021;Florida Este;Seguridad en el barrio;Seguridad;156;4387000;1
-2021;Florida Este;APOVILO (Asociación de Pacientes Oncológicos de Vicente López);Social;129;1000000;1
+2021;Florida Este;Seguridad en el barrio;Salud;156;4387000;1
+2021;Florida Este;APOVILO (Asociación de Pacientes Oncológicos de Vicente López);Salud;129;1000000;1
 2021;Florida Este;Club Villa Pearson;Deporte;115;2500000;1
 2021;Florida Este;Centro de Formación Laboral N° 1 (Provincial);Educación;107;2300000;1
 2021;Florida Este;Jardín de Infantes N° 902 (Provincial);Educación;103;1560750;1
 2021;Florida Este;Laboratorio de Arte y Tecnología;Cultura;102;2175000;1
 2021;Florida Este;Escuela Secundaria N° 7 (Provincial);Educación;91;5000000;0
 2021;Florida Este;Veredas limpias de caca;Espacio Público;55;343200;1
-2021;Florida Este;Calles accesibles;Social;44;1350000;0
+2021;Florida Este;Calles accesibles;Movilidad;44;1350000;0
 2021;Florida Este;Semáforo completo;Movilidad;33;840000;0
 2021;Florida Este;Sendas peatonales en entorno escuelas;Educación;33;1342500;0
 2021;Florida Este;Nuevo canil;Espacio Público;27;5000000;0
@@ -402,7 +401,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Florida Oeste;Sociedad de Fomento 9 de Julio;Social;106;5000000;0
 2021;Florida Oeste;Biblioteca Popular Nora Bombelli;Cultura;89;1300000;1
 2021;Florida Oeste;Escuela Secundaria N° 9 (Provincial);Educación;82;3950000;0
-2021;Florida Oeste;Seguridad en el barrio;Seguridad;66;5000000;0
+2021;Florida Oeste;Seguridad en el barrio;Salud;66;5000000;0
 2021;Florida Oeste;Jardín de Infantes N° 908 (Provincial);Educación;55;813500;1
 2021;Florida Oeste;Florida Club;Deporte;49;5000000;0
 2021;Florida Oeste;Voluntarias Maternidad Santa Rosa;Social;45;357585;1
@@ -410,7 +409,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Florida Oeste;Jardín de Infantes N° 905 (Provincial);Educación;32;1340000;1
 2021;Florida Oeste;Semáforos con cuenta regresiva;Movilidad;27;732750;1
 2021;Florida Oeste;Semáforo completo;Movilidad;24;1650000;0
-2021;Florida Oeste;Calles accesibles;Social;23;675000;0
+2021;Florida Oeste;Calles accesibles;Movilidad;23;675000;0
 2021;Florida Oeste;Jardín de Infantes N° 912 (Provincial);Educación;22;840000;0
 2021;Florida Oeste;La ecología comienza por casa;Medio Ambiente;20;420000;0
 2021;Florida Oeste;Jardín de Infantes Las Hormiguitas ;Educación;20;2100000;0
@@ -418,7 +417,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Florida Oeste;"Escuela Primaria Municipal ""Manuel Dorrego""";Educación;17;5000000;0
 2021;Florida Oeste;Centro de Jubilados y Pensionados Un Rincón de Amigos;Social;16;145000;0
 2021;Florida Oeste;Escuela Primaria N° 14 (Provincial);Educación;13;2100000;0
-2021;Florida Oeste;Barrio Las Flores;Social;12;430000;0
+2021;Florida Oeste;Barrio Las Flores;Otros/Varios;12;430000;0
 2021;Florida Oeste;"Centro de Jubilados ""Amor y Amistad""";Social;7;1310000;0
 2021;Florida Oeste;Asociación Civil Emprender;Social;7;4140000;0
 2021;Florida Oeste;Plaza La Paz;Espacio Público;6;900000;0
@@ -426,25 +425,25 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Florida Oeste;Reductores de velocidad;Movilidad;2;315000;0
 2021;La Lucila;Bomberos Voluntarios de Vicente López;Seguridad;318;5000000;1
 2021;La Lucila;Sociedad de Fomento La Lucila;Social;118;2400000;1
-2021;La Lucila;Observatorio de Aves;Social;112;1613000;1
+2021;La Lucila;Observatorio de Aves;Medio Ambiente;112;1613000;1
 2021;La Lucila;Cruz Roja Argentina - Filial Vicente López;Salud;110;1947000;1
 2021;La Lucila;Grupo Scouts Nuestra Señora de la Paz;Social;64;2200000;1
-2021;La Lucila;Seguridad en el barrio;Seguridad;47;5000000;1
+2021;La Lucila;Seguridad en el barrio;Salud;47;5000000;1
 2021;La Lucila;Parque Natural La Lucila;Espacio Público;27;395000;0
 2021;La Lucila;Centro Barrial Infantil El Ceibo;Educación;20;5000000;0
 2021;La Lucila;Taller prenatal de lactancia materna;Social;12;450000;0
-2021;La Lucila;Clic mayores - Inclusión digital;Social;11;4200000;0
+2021;La Lucila;Clic mayores - Inclusión digital;Otros/Varios;11;4200000;0
 2021;La Lucila;Xul Solar va a la escuela;Educación;7;384000;0
 2021;La Lucila;Audioguía de nuestros bienes culturales;Cultura;5;250000;1
 2021;La Lucila;Ruta del arte urbano;Cultura;5;495000;0
-2021;La Lucila;Rescate de la memoria de la ribera;Social;5;300000;0
+2021;La Lucila;Rescate de la memoria de la ribera;Cultura;5;300000;0
 2021;Munro;Instituto Superior de Formación Técnica N° 220 (Provincial);Educación;262;1650000;1
 2021;Munro;Hogar Kaupé ;Social;256;5000000;1
 2021;Munro;Biblioteca Tecnológica Pública;Cultura;191;5000000;1
 2021;Munro;Sociedad de Fomento Grossville;Social;175;5000000;1
-2021;Munro;Carrera de Enfermería Municipal;Social;160;450000;1
+2021;Munro;Carrera de Enfermería Municipal;Otros/Varios;160;450000;1
 2021;Munro;Club Unión de Munro;Deporte;123;5000000;1
-2021;Munro;Seguridad en el barrio;Seguridad;97;4227000;0
+2021;Munro;Seguridad en el barrio;Salud;97;4227000;0
 2021;Munro;Jardín de Infantes Municipal N° 3;Educación;83;3373000;1
 2021;Munro;Escuela de Educación Especial N° 504 (Provincial);Educación;63;577950;1
 2021;Munro;Federación de Clubes Convivir;Deporte;61;5000000;0
@@ -452,7 +451,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Munro;Sociedad de Fomento y Social Munro;Social;48;5000000;0
 2021;Munro;Asociación Ucraniana Renacimiento;Social;42;2400000;0
 2021;Munro;Jardín de Infantes N° 909 (Provincial);Educación;40;1998000;0
-2021;Munro;Centro Comercial Av. Vélez Sársfield (Oeste);Social;40;5000000;0
+2021;Munro;Centro Comercial Av. Vélez Sársfield (Oeste);Otros/Varios;40;5000000;0
 2021;Munro;Escuela de Educación Técnica N° 2 (Provincial);Educación;28;2950000;0
 2021;Munro;Escuela Primaria N° 30 (Provincial);Educación;23;1980000;0
 2021;Munro;Escuela Primaria N° 10 (Provincial);Educación;22;250000;0
@@ -467,23 +466,23 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Munro;Compostera comunitaria;Medio Ambiente;11;120000;1
 2021;Munro;"Agrupación de Jubilados ""Rivadavia""";Social;10;1800000;0
 2021;Munro;Semáforo completo;Movilidad;9;885000;0
-2021;Munro;Divisoria con el Municipio de San Martin ;Social;9;2085000;0
+2021;Munro;Divisoria con el Municipio de San Martin ;Otros/Varios;9;2085000;0
 2021;Munro;Dársena para transporte público ;Movilidad;8;1800000;0
 2021;Munro;Biblioteca Salvador Bel;Cultura;8;400000;0
 2021;Munro;Estacionamiento exclusivo ;Movilidad;7;1650000;0
 2021;Munro;Huerta comunitaria ;Medio Ambiente;7;304200;0
-2021;Munro;Calles accesibles;Social;7;675000;0
+2021;Munro;Calles accesibles;Movilidad;7;675000;0
 2021;Munro;Botellas de Amor;Medio Ambiente;7;90000;0
 2021;Munro;La ecología comienza por casa;Medio Ambiente;6;420000;0
 2021;Munro;Centro Barrial de Juventud (sede Munro);Social;6;1575150;0
-2021;Munro;Bulevar Santa Cruz;Social;5;4500000;0
+2021;Munro;Bulevar Santa Cruz;Otros/Varios;5;4500000;0
 2021;Munro;Sociedad de Fomento Sargento Cabral;Social;1;790000;0
-2021;Olivos;Asociación CIRES NORTE;Social;346;5000000;1
+2021;Olivos;Asociación CIRES NORTE;Salud;346;5000000;1
 2021;Olivos;Club Defensores de Olivos;Deporte;307;5000000;1
 2021;Olivos;Centro Cultural El Faro;Cultura;231;5000000;1
 2021;Olivos;Club Social y Deportivo Unión Olivos;Deporte;225;4000000;1
-2021;Olivos;Hospice San Camilo;Social;214;3600000;1
-2021;Olivos;Seguridad en el barrio;Seguridad;203;5000000;0
+2021;Olivos;Hospice San Camilo;Salud;214;3600000;1
+2021;Olivos;Seguridad en el barrio;Salud;203;5000000;0
 2021;Olivos;Escuela Secundaria N° 1 (Provincial);Educación;179;5000000;0
 2021;Olivos;"Escuela Secundaria Municipal ""Paula A. de Sarmiento""";Educación;171;2250000;1
 2021;Olivos;Colegio Virgen del Carmen;Educación;158;3100000;0
@@ -492,11 +491,11 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Olivos;Hogar Querubines;Social;108;3925000;0
 2021;Olivos;Escuela Municipal de Música Popular;Cultura;102;668550;1
 2021;Olivos;Escuela de Educación Especial N° 502 (Provincial);Educación;97;1900000;0
-2021;Olivos;Calles accesibles;Social;91;1350000;0
+2021;Olivos;Calles accesibles;Movilidad;91;1350000;0
 2021;Olivos;Centro de Ex Combatientes de Malvinas;Cultura;87;1400000;0
 2021;Olivos;Grupo Scouts Hipólito Bouchard;Social;82;145000;1
 2021;Olivos;Campo Municipal de Deportes N°1;Deporte;78;435000;1
-2021;Olivos;LALCEC;Social;74;897000;0
+2021;Olivos;LALCEC;Salud;74;897000;0
 2021;Olivos;Centro de la Mujer y Políticas de Género;Social;72;900000;0
 2021;Olivos;Jardín Maternal Municipal N° 9;Salud;66;1587000;0
 2021;Olivos;Jardín de Infantes N° 913 (Provincial);Educación;60;1590000;0
@@ -507,36 +506,36 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Olivos;Jardín de Infantes Municipal N° 10;Educación;48;1147000;0
 2021;Olivos;Nuevo canil;Espacio Público;46;5000000;0
 2021;Olivos;Compostera comunitaria;Medio Ambiente;44;120000;0
-2021;Olivos;Centro de Investigaciones Históricas de Vicente López;Social;41;1192000;0
+2021;Olivos;Centro de Investigaciones Históricas de Vicente López;Otros/Varios;41;1192000;0
 2021;Olivos;"Centro de Jubilados y Pensionados ""Plaza de los Inmigrantes""";Espacio Público;34;525000;0
 2021;Olivos;Centro Barrial Infantil La Loma;Educación;32;4419000;0
 2021;Olivos;Rotary Club La Lucila;Deporte;29;1380000;0
 2021;Olivos;"Centro de Jubilados y Pensionados ""Sarmiento""";Social;27;508500;0
 2021;Olivos;Semáforos completos;Movilidad;21;2700000;0
-2021;Olivos;Cementerio de Olivos;Social;20;5000000;0
-2021;Olivos;Casco Histórico de Olivos;Social;19;1500000;0
-2021;Olivos;APIAD;Social;15;2725000;0
+2021;Olivos;Cementerio de Olivos;Otros/Varios;20;5000000;0
+2021;Olivos;Casco Histórico de Olivos;Otros/Varios;19;1500000;0
+2021;Olivos;APIAD;Otros/Varios;15;2725000;0
 2021;Olivos;Escuela de Estética N° 1 (Provincial);Educación;14;1000000;0
-2021;Olivos;Dársena de carga y descarga ;Social;13;1900000;0
+2021;Olivos;Dársena de carga y descarga ;Otros/Varios;13;1900000;0
 2021;Olivos;Centro Barrial de Juventud (sede La Loma);Social;9;1110000;0
 2021;Olivos;Club Amistad y Social Olivos Atlético (CAOSA);Deporte;8;638000;0
-2021;Olivos;Dársenas de carga y descarga;Social;7;1680000;0
+2021;Olivos;Dársenas de carga y descarga;Otros/Varios;7;1680000;0
 2021;Vicente López;Club ABC del Partido de Corcubión;Deporte;345;2130000;1
 2021;Vicente López;Club de Caza, Pesca y Náutica Belgrano;Deporte;152;4760000;1
 2021;Vicente López;Fundación Aylén;Social;82;5000000;1
 2021;Vicente López;Centro de Adultos Mayores Activos;Social;74;5000000;1
-2021;Vicente López;Seguridad en el barrio;Seguridad;66;5000000;1
+2021;Vicente López;Seguridad en el barrio;Salud;66;5000000;1
 2021;Vicente López;Grupo Scouts San Gabriel;Social;60;495000;0
-2021;Vicente López;Calles accesibles;Social;50;1350000;0
+2021;Vicente López;Calles accesibles;Movilidad;50;1350000;0
 2021;Vicente López;Huerta Comunitaria ;Medio Ambiente;32;533000;0
 2021;Vicente López;Asociación Senderos del Sembrador;Social;27;881000;0
 2021;Vicente López;Cestos papeleros;Medio Ambiente;27;630000;0
 2021;Vicente López;Dársenas para estacionamiento exclusivo;Movilidad;24;1608000;0
-2021;Vicente López;Seguridad vial en las 7 esquinas;Seguridad;20;1074000;0
+2021;Vicente López;Seguridad vial en las 7 esquinas;Salud;20;1074000;0
 2021;Vicente López;Escuela Secundaria N° 6 (Provincial);Educación;19;514000;0
 2021;Vicente López;Compostera comunitaria;Medio Ambiente;16;120000;1
 2021;Vicente López;Semáforo a demanda;Movilidad;15;259000;0
-2021;Vicente López;Parque de Calistenia;Espacio Público;14;860000;0
+2021;Vicente López;Parque de Calistenia;Deporte;14;860000;0
 2021;Vicente López;La ecología comienza por casa;Medio Ambiente;11;336000;0
 2021;Vicente López;Semáforo completo;Movilidad;9;885000;0
 2021;Vicente López;Señalamiento vertical;Movilidad;7;215000;0
@@ -545,7 +544,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Villa Adelina;Club Sociedades Unidas de Villa Adelina;Deporte;126;5000000;1
 2021;Villa Adelina;Asociación Vecinos y Amigos de la Plaza Eduardo Ader (AVAPEA);Espacio Público;37;2100000;1
 2021;Villa Adelina;Jardín de Infantes N° 907 (Provincial);Educación;35;723000;1
-2021;Villa Adelina;Manos a la masa;Social;19;372000;1
+2021;Villa Adelina;Manos a la masa;Otros/Varios;19;372000;1
 2021;Villa Adelina;Club de Leones de Villa Adelina;Deporte;13;623000;1
 2021;Villa Adelina;Nuevo canil;Espacio Público;13;5000000;1
 2021;Villa Adelina;Plazoleta 9 de Julio y Paraná;Espacio Público;9;2250000;0
@@ -554,14 +553,14 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Villa Martelli;Volver a Martelli;Cultura;758;3800000;1
 2021;Villa Martelli;Sociedad Polaca Federico Chopin;Social;752;3900000;1
 2021;Villa Martelli;Centro Barrial Infantil Habana;Educación;209;2191200;1
-2021;Villa Martelli;Seguridad en el barrio;Seguridad;91;5000000;1
+2021;Villa Martelli;Seguridad en el barrio;Salud;91;5000000;1
 2021;Villa Martelli;Club Laprida ;Deporte;79;3660000;0
 2021;Villa Martelli;Sociedad de Fomento de Villa Martelli;Cultura;76;3000000;0
 2021;Villa Martelli;Centro de Fomento Cultural y Deportivo Padilla ;Cultura;53;5000000;0
 2021;Villa Martelli;Fundación Camino ;Social;48;1500000;1
 2021;Villa Martelli;Centro de Jubilados y Pensionados Amigos de Padilla;Social;34;400000;1
 2021;Villa Martelli;Plaza El Ombú;Espacio Público;30;5000000;0
-2021;Villa Martelli;Calles accesibles;Social;29;675000;0
+2021;Villa Martelli;Calles accesibles;Movilidad;29;675000;0
 2021;Villa Martelli;Jardín de Infantes N° 918 (Provincial);Educación;25;558000;0
 2021;Villa Martelli;Jardín Maternal Municipal N° 1;Salud;21;349400;0
 2021;Villa Martelli;Ciclón Fútbol Club ;Deporte;19;950000;0
@@ -570,14 +569,14 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2021;Villa Martelli;Centro Barrial de Juventud (sede V. Martelli);Cultura;12;675000;0
 2021;Villa Martelli;Composteras comunitarias;Medio Ambiente;11;120000;1
 2021;Villa Martelli;Semáforos completos;Movilidad;10;1425000;0
-2021;Villa Martelli;Manos a la masa;Social;9;468000;0
+2021;Villa Martelli;Manos a la masa;Otros/Varios;9;468000;0
 2021;Villa Martelli;"Centro de Jubilados ""El Trébol""";Social;9;34500;1
 2021;Villa Martelli;Taller prenatal de lactancia materna;Social;8;450000;0
 2021;Villa Martelli;Sociedad de Fomento Barrio Gaynor;Social;8;2250000;0
 2021;Villa Martelli;Huerta Comunitaria ;Medio Ambiente;8;101400;0
 2022;Villa Martelli;Círculo de Ajedrez de Villa Martelli;Cultura;2295;6000000;1
 2022;Villa Martelli;Club Laprida;Deporte;652;6000000;1
-2022;Villa Martelli;Seguridad en el barrio;Seguridad;639;6000000;1
+2022;Villa Martelli;Seguridad en el barrio;Salud;639;6000000;1
 2022;Villa Martelli;Escuela Secundaria N° 2 (Provincial);Educación;478;6000000;1
 2022;Villa Martelli;Sociedad de Fomento y Cultural de Villa Martelli;Cultura;466;6000000;1
 2022;Villa Martelli;Asociación Entidades de Bien Público de Villa Martelli;Cultura;360;390000;1
@@ -597,15 +596,15 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Villa Martelli;Instalación de cruce de semáforos;Movilidad;117;4188000;0
 2022;Villa Martelli;Club El Ciclón;Deporte;115;3600000;0
 2022;Villa Martelli;Demarcación de sendas peatonales y cartelería;Cultura;114;704000;0
-2022;Villa Martelli;Barrio Habana 2;Social;93;6000000;0
+2022;Villa Martelli;Barrio Habana 2;Otros/Varios;93;6000000;0
 2022;Villa Martelli;Sociedad de Fomento Barrio Gaynor;Social;88;6000000;0
 2022;Villa Martelli;Reciclaje en el Barrio Necochea;Medio Ambiente;73;1016000;0
 2022;Villa Martelli;Asociación Civil Educación y Trabajo El Mejor Camino (ex Fundación Camino);Educación;66;5000000;0
 2022;Villa Martelli;Plazoleta A. Katán;Espacio Público;65;63800;1
-2022;Villa Martelli;Barrio Habana 1;Social;62;6000000;0
+2022;Villa Martelli;Barrio Habana 1;Otros/Varios;62;6000000;0
 2022;Florida Oeste;Sociedad de Fomento Florida Sud;Social;844;6000000;1
 2022;Florida Oeste;Club Colegiales;Deporte;796;6000000;1
-2022;Florida Oeste;Seguridad en el barrio;Seguridad;756;6000000;1
+2022;Florida Oeste;Seguridad en el barrio;Salud;756;6000000;1
 2022;Florida Oeste;Club Unión Florida;Deporte;660;6000000;1
 2022;Florida Oeste;Unión Vecinal Amigos de Florida Oeste;Social;483;6000000;1
 2022;Florida Oeste;Voluntarias de la Maternidad Santa Rosa;Social;462;700000;1
@@ -618,21 +617,21 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Florida Oeste;Jardín de Infantes Nº 908 (Provincial);Educación;284;6000000;0
 2022;Florida Oeste;Rampas en esquinas;Reparaciones/Obra;284;6000000;0
 2022;Florida Oeste;Instalación de cruce de semáforos;Movilidad;262;5772400;0
-2022;Florida Oeste;Salón Padre OSCARITO (Barrio Las Flores);Social;243;6000000;0
+2022;Florida Oeste;Salón Padre OSCARITO (Barrio Las Flores);Otros/Varios;243;6000000;0
 2022;Florida Oeste;Jardín de Infantes Nº 905 (Provincial);Educación;238;2560000;0
 2022;Florida Oeste;Biblioteca Popular Nora Bombelli;Cultura;232;4700000;0
 2022;Florida Oeste;Cestos de basura;Medio Ambiente;226;2000000;0
 2022;Florida Oeste;Asociación ACER (Acompañar con Educación y Responsabilidad);Educación;223;6000000;0
-2022;Florida Oeste;Vergel Urbano - Parque de especies nativas (en ex Plaza Belgrano Cargas);Espacio Público;204;1000000;1
+2022;Florida Oeste;Vergel Urbano - Parque de especies nativas (en ex Plaza Belgrano Cargas);Medio Ambiente;204;1000000;1
 2022;Florida Oeste;Escuela Secundaria Nº 9;Educación;195;1930000;0
 2022;Florida Oeste;Centro de Jubilados Amor y Amistad;Social;188;3150000;0
 2022;Florida Oeste;Iluminando el camino en Las Flores;Reparaciones/Obra;180;6000000;0
 2022;Florida Oeste;Instalación de cruce de semáforos;Movilidad;159;4188000;0
 2022;Florida Oeste;Centro de Jubilados y Pensionados Un Rincón de Amigos;Social;107;250000;1
-2022;Florida Oeste;Flores en Las Flores;Social;84;6000000;0
-2022;Florida Oeste;Color en Las Flores;Social;80;6000000;0
+2022;Florida Oeste;Flores en Las Flores;Otros/Varios;84;6000000;0
+2022;Florida Oeste;Color en Las Flores;Otros/Varios;80;6000000;0
 2022;Florida Oeste;Florida Club ;Deporte;76;0;0
-2022;Munro;Seguridad en el barrio;Seguridad;1050;4560000;1
+2022;Munro;Seguridad en el barrio;Salud;1050;4560000;1
 2022;Munro;Club Unión de Munro;Deporte;642;6000000;1
 2022;Munro;Escuela Primaria N° 19 (Provincial);Educación;610;4300000;1
 2022;Munro;Instalación de cruce de semáforos;Movilidad;601;5772400;1
@@ -646,7 +645,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Munro;Instituto Superior de Formación Docente N° 220;Educación;367;6000000;0
 2022;Munro;Escuela de Educación Especial N° 503;Educación;354;3700000;0
 2022;Munro;Grupo Scout San Jorge Mártir;Social;344;780000;0
-2022;Munro;Puesta en valor Munro Oeste (límite con San Martín);Social;310;1900000;0
+2022;Munro;Puesta en valor Munro Oeste (límite con San Martín);Otros/Varios;310;1900000;0
 2022;Munro;Jardín de Infantes N° 909 (Provincial);Educación;310;970000;0
 2022;Munro;Jardín de Infantes N° 910 (Provincial);Educación;309;2200000;0
 2022;Munro;Instalación de cruce de semáforos;Movilidad;308;4188000;0
@@ -665,7 +664,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Munro;Barrio Virgen de Luján 2;Social;59;2400000;0
 2022;Munro;Barrio Virgen de Luján 3;Social;58;6000000;0
 2022;Carapachay;Bomberos Voluntarios de Vicente López;Seguridad;1580;6000000;1
-2022;Carapachay;Seguridad en el barrio;Seguridad;1186;6000000;1
+2022;Carapachay;Seguridad en el barrio;Salud;1186;6000000;1
 2022;Carapachay;Escuela Primaria Nº 18 (Provincial);Educación;1058;6000000;1
 2022;Carapachay;Sociedad de Fomento Drysdale;Social;677;6000000;1
 2022;Carapachay;Unión Vecinal 25 de Mayo;Social;542;6000000;0
@@ -677,7 +676,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Villa Adelina;Sociedades Unidas de Villa Adelina (SUVA);Social;700;6000000;1
 2022;Villa Adelina;Escuela de Educación Técnica N° 1 (Provincial);Educación;501;6000000;1
 2022;Villa Adelina;Grupo Scout Ntra. Sra. de la Pureza;Social;342;6000000;1
-2022;Villa Adelina;Seguridad en el barrio;Seguridad;274;4560000;1
+2022;Villa Adelina;Seguridad en el barrio;Salud;274;4560000;1
 2022;Villa Adelina;Escuela Secundaria N° 11 (Provincial);Educación;209;1100000;0
 2022;Villa Adelina;Jardín de Infantes Nº 907 (Provincial);Educación;208;1650000;0
 2022;Villa Adelina;Asociación Vecinos y Amigos de la Plaza Eduardo Ader (AVAPEA);Espacio Público;182;4000000;1
@@ -687,7 +686,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Villa Adelina;Club de Leones de Villa Adelina;Deporte;73;4000000;0
 2022;Villa Adelina;Plazoleta de 9 de Julio y Paraná;Espacio Público;64;6000000;0
 2022;Florida Este;Club Atlético Platense;Deporte;1982;6000000;1
-2022;Florida Este;Seguridad en el barrio;Seguridad;1079;4560000;1
+2022;Florida Este;Seguridad en el barrio;Salud;1079;4560000;1
 2022;Florida Este;Cruz Roja Argentina Filial Vicente López;Salud;989;5000000;1
 2022;Florida Este;Jardín de Infantes Nº 903 (Provincial);Educación;794;3700000;1
 2022;Florida Este;Rampas en esquinas;Reparaciones/Obra;672;6000000;1
@@ -697,7 +696,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Florida Este;Reposición de arbolado;Medio Ambiente;603;1500000;1
 2022;Florida Este;Escuela Primaria Nº 9 (Provincial);Educación;537;6000000;0
 2022;Florida Este;Club Social y Deportivo Caseros;Deporte;482;2000000;1
-2022;Florida Este;Asociación Civil Tiempos de Memoria;Social;436;6000000;0
+2022;Florida Este;Asociación Civil Tiempos de Memoria;Cultura;436;6000000;0
 2022;Florida Este;Instalación de cruce de semáforos;Movilidad;419;4188000;0
 2022;Florida Este;Ctro. de Jubilados Estación Florida Mitre;Social;415;440000;1
 2022;Florida Este;Club Villa Pearson;Deporte;404;6000000;0
@@ -711,14 +710,14 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Florida Este;Plazoleta García Lorca;Espacio Público;174;6000000;0
 2022;Florida Este;Asociación Seguir Creciendo;Social;171;2800000;0
 2022;La Lucila;Bomberos Voluntarios de Vicente López;Seguridad;874;6000000;1
-2022;La Lucila;Seguridad en el barrio;Seguridad;395;6000000;1
+2022;La Lucila;Seguridad en el barrio;Salud;395;6000000;1
 2022;La Lucila;Sociedad de Fomento de La Lucila;Social;298;3600000;1
 2022;La Lucila;Escuela Primaria N° 16 (Provincial);Educación;251;580000;1
 2022;La Lucila;Grupo Scout Ntra. Sra. de La Paz;Social;201;1500000;1
 2022;La Lucila;Rampas en esquinas;Reparaciones/Obra;195;6000000;1
 2022;La Lucila;Centro Educativo 'La Escuelita' (Barrio El Ceibo);Educación;185;4800000;0
 2022;La Lucila;Espacios recreativos del Barrio El Ceibo;Social;107;6000000;0
-2022;Olivos;Seguridad en el barrio;Seguridad;1759;6000000;1
+2022;Olivos;Seguridad en el barrio;Salud;1759;6000000;1
 2022;Olivos;Centro de Jubilados y Pensionados Sarmiento;Social;905;420000;1
 2022;Olivos;Escuela Primaria N° 2 (Provincial);Educación;742;6000000;1
 2022;Olivos;Escuela Primaria Nº 15 y Escuela de Estética Nº 1;Educación;732;6000000;0
@@ -729,7 +728,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Olivos;Sociedad de Fomento 12 de Octubre;Social;583;6000000;1
 2022;Olivos;Cestos de basura;Medio Ambiente;583;2000000;1
 2022;Olivos;Club Sarmiento;Deporte;549;6000000;1
-2022;Olivos;Asociación CIRES Norte;Social;499;6000000;0
+2022;Olivos;Asociación CIRES Norte;Salud;499;6000000;0
 2022;Olivos;Escuela Primaria y Secundaria N° 1;Educación;418;6000000;0
 2022;Olivos;Grupo Scout 140 Hipólito Bouchard;Social;385;1800000;0
 2022;Olivos;Jardín de Infantes N° 913 (Provincial);Educación;384;790000;0
@@ -748,14 +747,14 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2022;Olivos;Demarcación horizontal (sendas peatonales);Movilidad;149;325000;0
 2022;Olivos;Club Caosa;Deporte;132;2860000;0
 2022;Olivos;Asociación Civil EPEBA;Social;60;6000000;0
-2022;Vicente López;Seguridad en el barrio;Seguridad;1144;6000000;1
+2022;Vicente López;Seguridad en el barrio;Salud;1144;6000000;1
 2022;Vicente López;Club Vilo;Deporte;878;6000000;1
 2022;Vicente López;Árboles en Puente Saavedra;Medio Ambiente;831;1500000;1
 2022;Vicente López;Rampas en esquinas;Reparaciones/Obra;706;6000000;1
 2022;Vicente López;Preservar el ecosistema;Medio Ambiente;678;6000000;1
 2022;Vicente López;Cestos de basura;Medio Ambiente;640;2000000;1
 2022;Vicente López;Círculo Trovador;Social;358;6000000;0
-2022;Vicente López;Senderos del Sembrador;Social;339;6000000;0
+2022;Vicente López;Senderos del Sembrador;Otros/Varios;339;6000000;0
 2022;Vicente López;Instituto Bignone;Educación;326;6000000;0
 2022;Vicente López;Grupo Scout San Gabriel;Social;305;6000000;0
 2022;Vicente López;Rotary Club de Vicente López;Deporte;301;3500000;1
@@ -773,17 +772,17 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Villa Martelli;Jardín de Infantes Nº 904 (Provincial);Educación;381;6600000;0
 2023;Villa Martelli;Socie de Martelli 2023;Cultura;361;10000000;1
 2023;Villa Martelli;Jardín de Infantes Nº 918 (Provincial);Educación;339;3200000;0
-2023;Villa Martelli;Instalación cruce de semáforos y medidas de seguridad vial;Seguridad;293;9500000;0
+2023;Villa Martelli;Instalación cruce de semáforos y medidas de seguridad vial;Salud;293;9500000;0
 2023;Villa Martelli;Escuela 20 Aires Acondicionados (Provincial);Educación;181;10000000;0
 2023;Villa Martelli;Centro de Jubilados y Pensionados Amigos de Padilla;Social;170;250000;1
-2023;Villa Martelli;Manos a la masa;Social;148;1100000;1
+2023;Villa Martelli;Manos a la masa;Otros/Varios;148;1100000;1
 2023;Villa Martelli;Club de Leones de Villa Martelli;Cultura;134;10000000;0
 2023;Villa Martelli;Asociación Camino;Social;127;6500000;0
 2023;Villa Martelli;Restaurando mi hogar;Social;114;10000000;0
 2023;Villa Martelli;Unión Vecinal de Socorros Mutuos;Social;113;10000000;0
 2023;Villa Martelli;Reductores de velocidad;Movilidad;92;812500;1
 2023;Villa Martelli;Amigos, Comerciantes e Industriales de Villa Martelli;Cultura;70;8000000;0
-2023;Florida oeste;Seguridad en mi Barrio;Seguridad;1410;4400000;1
+2023;Florida oeste;Seguridad en mi Barrio;Salud;1410;4400000;1
 2023;Florida oeste;Las Flores mi barrio, mi hogar.;Social;1330;10000000;1
 2023;Florida oeste;Florida Club;Deporte;834;10000000;1
 2023;Florida oeste;Biblioteca Nora Bombelli;Cultura;751;10000000;1
@@ -802,7 +801,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Munro;Mi barrio más limpio;Espacio Público;1509;10000000;1
 2023;Munro;Grupo Scout San Jorge Mártir;Social;870;5400000;1
 2023;Munro;Jardín de Infantes Nº 914 (Provincial);Educación;809;10000000;1
-2023;Munro;Federación Convivir;Social;755;10000000;1
+2023;Munro;Federación Convivir;Otros/Varios;755;10000000;1
 2023;Munro;Olivos Rugby Club;Deporte;567;10000000;1
 2023;Munro;Sociedad de Fomento Grossville;Social;539;10000000;1
 2023;Munro;Agrupación Jubilados Rivadavia. Por un mejor techo!;Reparaciones/Obra;460;4900000;1
@@ -814,7 +813,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Munro;Escuela Especial N° 504 (Provincial) Nos conectamos con el mundo;Educación;294;10000000;0
 2023;Munro;ISFT Nº 77 (Provincial) - Educación ambientada en entornos 2.0;Educación;273;10000000;0
 2023;Munro;Pongamos linda la Escuelita;Educación;255;8100000;0
-2023;Munro;Asociación Peldaños: mejorar la accesibilidad a la sede;Social;245;10000000;0
+2023;Munro;Asociación Peldaños: mejorar la accesibilidad a la sede;Movilidad;245;10000000;0
 2023;Munro;Rampas en esquinas;Reparaciones/Obra;221;9300000;0
 2023;Munro;Punto seguro;Seguridad;198;10000000;0
 2023;Munro;Semáforo en Carlos Calvo y Albarellos;Movilidad;176;10000000;0
@@ -838,9 +837,9 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Carapachay;Semáforos peatonales en Ader y Obligado;Movilidad;134;9200000;0
 2023;Carapachay;Talleres de radio;Cultura;134;5000000;0
 2023;Carapachay;Punto seguro;Seguridad;123;10000000;0
-2023;Carapachay;Seguridad vial en Club Drysdale;Seguridad;105;1200000;1
-2023;Carapachay;Junta Vecinal Manuel Belgrano;Social;81;10000000;0
-2023;Carapachay;Seguridad vial en Carapachay;Seguridad;64;3912500;0
+2023;Carapachay;Seguridad vial en Club Drysdale;Salud;105;1200000;1
+2023;Carapachay;Junta Vecinal Manuel Belgrano;Otros/Varios;81;10000000;0
+2023;Carapachay;Seguridad vial en Carapachay;Salud;64;3912500;0
 2023;Carapachay;Reductores de velocidad;Movilidad;55;812500;1
 2023;Carapachay;Ordenamiento tránsito;Movilidad;51;200000;1
 2023;Carapachay;Iglesia Cristiana Evangélica;Social;49;4420000;0
@@ -848,8 +847,8 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Villa Adelina;Escuela Secundaria Nº 11 (Provincial);Educación;238;10000000;1
 2023;Villa Adelina;Escuela Primaria Nº 28 (Provincial);Educación;230;10000000;0
 2023;Villa Adelina;Jardín de Infantes Nº 907 (Provincial);Educación;160;5500000;0
-2023;Villa Adelina;AVAPEA;Social;124;10000000;1
-2023;Villa Adelina;Manos a la masa;Social;89;600000;1
+2023;Villa Adelina;AVAPEA;Otros/Varios;124;10000000;1
+2023;Villa Adelina;Manos a la masa;Otros/Varios;89;600000;1
 2023;Villa Adelina;Punto seguro;Seguridad;85;10000000;1
 2023;Villa Adelina;Club de Leones de Villa Adelina;Deporte;74;10000000;0
 2023;Florida este;Escuela Primaria Nº 12;Educación;1204;10000000;1
@@ -867,7 +866,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Florida este;Escuela Secundaria Nº 7 de Florida (Provincial);Educación;333;10000000;0
 2023;Florida este;Punto Seguro;Seguridad;305;10000000;0
 2023;Florida este;Teatro de Repertorio del Norte;Cultura;300;7647500;0
-2023;Florida este;Posada Loyola de Convalecientes;Social;297;10000000;0
+2023;Florida este;Posada Loyola de Convalecientes;Otros/Varios;297;10000000;0
 2023;Florida este;Centro Jubilados y Pensionados Florida;Social;293;10000000;0
 2023;Florida este;Rampas en esquinas;Reparaciones/Obra;281;9300000;0
 2023;Florida este;Club Villa Pearson. Parrillas;Deporte;279;10000000;0
@@ -877,7 +876,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Florida este;Relocalización semáforo vehicular Roca y Maipú;Movilidad;186;1750000;0
 2023;Florida este;Semáforo en H. Yrigoyen y Valle Grande;Movilidad;180;8000000;0
 2023;Florida este;Club Caseros;Deporte;155;10000000;0
-2023;Florida este;Aire para respirar CFI Nº1;Social;132;10000000;0
+2023;Florida este;Aire para respirar CFI Nº1;Otros/Varios;132;10000000;0
 2023;Florida este;Rampas y señalización horizontal;Movilidad;95;3500000;0
 2023;Florida este;Reductores de velocidad;Movilidad;58;812500;0
 2023;La Lucila;Fortalecimiento del Conservatorio de Música 'Juan José Castro': Adquisición de instrumentos musicales e insumos de tecnología multimedia.;Cultura;325;10000000;1
@@ -886,12 +885,12 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;La Lucila;Reverdeciendo veredas;Espacio Público;237;3375000;1
 2023;La Lucila;Sociedad de Fomento de La Lucila;Social;211;10000000;1
 2023;La Lucila;Grupo Scout La Paz;Social;124;3500000;1
-2023;La Lucila;Manos a la masa;Social;98;600000;1
+2023;La Lucila;Manos a la masa;Otros/Varios;98;600000;1
 2023;La Lucila;Rampas en esquinas;Reparaciones/Obra;98;9300000;0
 2023;La Lucila;Rampas y bolardos en El Ceibo;Reparaciones/Obra;95;10000000;0
 2023;La Lucila;Campaña de donación de sangre;Salud;64;7000000;1
 2023;La Lucila;Reductores de velocidad y demarcación de sendas peatonales;Movilidad;50;4450000;0
-2023;Olivos;HOSPICE SAN CAMILO (Cuidados Paliativos);Social;1169;10000000;1
+2023;Olivos;HOSPICE SAN CAMILO (Cuidados Paliativos);Salud;1169;10000000;1
 2023;Olivos;Plantación de árboles;Medio Ambiente;689;10000000;1
 2023;Olivos;Sociedad de Fomento 12 de octubre.;Social;657;10000000;1
 2023;Olivos;Jardín de Infantes Nº 906 (Provincial);Educación;622;10000000;1
@@ -900,17 +899,17 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Olivos;Club S y C Domingo F Sarmiento;Deporte;465;10000000;1
 2023;Olivos;Escuela 15 Estanislao Zeballos (Provincial);Educación;459;10000000;0
 2023;Olivos;Escuela de Educación Técnica N°3 (Provincial);Educación;449;10000000;0
-2023;Olivos;CIRES NORTE;Social;404;10000000;1
+2023;Olivos;CIRES NORTE;Salud;404;10000000;1
 2023;Olivos;Rampas en esquinas;Reparaciones/Obra;340;10000000;0
 2023;Olivos;Escuela Especial Nº 502 (Provincial);Educación;307;7000000;0
-2023;Olivos;Aires acondicionados para el CC El Faro;Social;295;9000000;0
+2023;Olivos;Aires acondicionados para el CC El Faro;Otros/Varios;295;9000000;0
 2023;Olivos;Grupo Scout San Pedro y San Pablo;Social;291;6000000;0
 2023;Olivos;Grupo Scout H. Bouchard;Social;277;10000000;0
 2023;Olivos;APIAD Centro de Día con Hogar;Social;276;3200000;1
 2023;Olivos;Cestos de residuos;Medio Ambiente;265;9375000;0
 2023;Olivos;La Escuelita EPEBA;Educación;264;10000000;0
 2023;Olivos;Punto seguro;Seguridad;247;10000000;0
-2023;Olivos;Tribuna del Estadio Defensores de Olivos;Social;215;10000000;0
+2023;Olivos;Tribuna del Estadio Defensores de Olivos;Deporte;215;10000000;0
 2023;Olivos;Anexo deportivo Club 25 de Mayo;Deporte;178;10000000;0
 2023;Olivos;Sociedad Alemana de Gimnasia;Social;168;10000000;0
 2023;Olivos;Escuela Primaria Nº 31 (Provincial);Educación;164;10000000;0
@@ -918,7 +917,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Olivos;Club CAOSA;Deporte;138;10000000;0
 2023;Olivos;Punto seguro;Seguridad;132;10000000;0
 2023;Olivos;Semáforo para peatones;Movilidad;132;3850000;0
-2023;Olivos;Centro Histórico de Vicente López;Social;127;2800000;0
+2023;Olivos;Centro Histórico de Vicente López;Otros/Varios;127;2800000;0
 2023;Olivos;Punto Seguro;Seguridad;122;10000000;0
 2023;Olivos;Punto Seguro;Seguridad;113;10000000;0
 2023;Olivos;Reductores de velocidad;Movilidad;75;812500;1
@@ -927,7 +926,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2023;Vicente López;Instituto Superior de Formación Docente Nº 39 (Provincial);Educación;791;10000000;0
 2023;Vicente López;Más rampas para personas con movilidad reducida en mi barrio;Reparaciones/Obra;605;9300000;1
 2023;Vicente López;Revive Club Banco Ciudad;Deporte;592;10000000;1
-2023;Vicente López;Centro Asturiano de Buenos Aires;Social;433;10000000;1
+2023;Vicente López;Centro Asturiano de Buenos Aires;Salud;433;10000000;1
 2023;Vicente López;Club Círculo Trovador;Deporte;424;10000000;0
 2023;Vicente López;Talleres para docentes;Cultura;417;1600000;1
 2023;Vicente López;Grupo Scout San Gabriel;Social;389;8000000;0
@@ -978,7 +977,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2024;Florida Oeste;22. Refugio en Parada de Colectivos;Movilidad;53;3250000;0
 2024;Munro;11. Club Unión de Munro;Deporte;1024;30000000;1
 2024;Munro;6. Club de la Tercera Edad Manuel Belgrano;Deporte;810;23400000;1
-2024;Munro;18. Federación Convivir;Social;799;30000000;1
+2024;Munro;18. Federación Convivir;Otros/Varios;799;30000000;1
 2024;Munro;12. Agrupación de Jubilados Rivadavia;Social;559;16000000;1
 2024;Munro;19. Escuela María Auxiliadora;Educación;557;18000000;1
 2024;Munro;5. Jardín de Infantes Nº 910 (Provincial);Educación;554;6000000;1
@@ -1009,7 +1008,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2024;Carapachay;11. Alimentación Saludable en Escuelas;Salud;210;1500000;0
 2024;Carapachay;4. Cartelería de la antigua Estación Carapachay;Cultura;187;20000000;0
 2024;Carapachay;1. Centro de Jubilados Luna de Otoño;Social;178;2700000;0
-2024;Carapachay;2. Junta Vecinal Manuel Belgrano;Social;132;30000000;0
+2024;Carapachay;2. Junta Vecinal Manuel Belgrano;Otros/Varios;132;30000000;0
 2024;Carapachay;9. Centro de Jubilados y Pensionados Unión Fraternal;Social;63;8600000;0
 2024;Villa Adelina;3. Club SUVA (Sociedades Unidas de Villa Adelina);Deporte;995;30000000;1
 2024;Villa Adelina;1. Escuela de Educación Técnica Nº 1 (Provincial);Educación;712;30000000;1
@@ -1017,7 +1016,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2024;Villa Adelina;5. Club Unión Vecinal Villa Adelina (UVVA);Deporte;233;30000000;0
 2024;Villa Adelina;2. Alimentación Saludable en Escuelas;Salud;174;1500000;1
 2024;Villa Adelina;4. Club de Leones de Villa Adelina;Deporte;105;11000000;0
-2024;Florida Este;3. APOVILO (Asociación Pacientes Oncológicos de Vicente López);Social;1308;12000000;1
+2024;Florida Este;3. APOVILO (Asociación Pacientes Oncológicos de Vicente López);Salud;1308;12000000;1
 2024;Florida Este;21. Club Caseros;Deporte;632;30000000;1
 2024;Florida Este;10. Escuela Primaria N° 12 (Provincial);Educación;554;30000000;1
 2024;Florida Este;24. Voluntariado Damas Rosadas de Vicente López;Social;431;2600000;1
@@ -1036,7 +1035,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2024;Florida Este;12. Centro de Jubilados Volver a Empezar;Social;237;12000000;0
 2024;Florida Este;22. Centro de Jubilados y Amigos de la Estación Florida Mitre;Social;214;9000000;0
 2024;Florida Este;27. Jardín de Infantes Nº 915 (Provincial);Educación;210;11000000;0
-2024;Florida Este;25. Posada Loyola de Convalecientes;Social;205;30000000;0
+2024;Florida Este;25. Posada Loyola de Convalecientes;Otros/Varios;205;30000000;0
 2024;Florida Este;20. Jardín de Infantes N° 903 (Provincial);Educación;201;15000000;0
 2024;Florida Este;5. Semáforo completo;Movilidad;191;11641000;0
 2024;Florida Este;9. Semáforo completo;Movilidad;185;11641000;0
@@ -1056,9 +1055,9 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2024;Olivos;"4. Biblioteca Popular de Olivos ""Vicente López y Planes""";Cultura;755;30000000;1
 2024;Olivos;8. Club Defensores de Olivos;Deporte;689;30000000;1
 2024;Olivos;2. Rampas en esquinas;Reparaciones/Obra;674;30000000;1
-2024;Olivos;23. Hospice San Camilo para la comunidad;Social;651;30000000;1
+2024;Olivos;23. Hospice San Camilo para la comunidad;Salud;651;30000000;1
 2024;Olivos;13. Escuela de Educación Técnica Nº 3 (Provincial);Educación;630;30000000;0
-2024;Olivos;21. Club Cires Norte;Deporte;618;30000000;0
+2024;Olivos;21. Club Cires Norte;Salud;618;30000000;0
 2024;Olivos;9. Escuela Primaria N° 2 (Provincial);Educación;556;22000000;1
 2024;Olivos;1. Centro Cultural El Faro;Cultura;446;5200000;0
 2024;Olivos;27. Alimentación Saludable en Escuelas;Salud;434;2000000;1
@@ -1078,13 +1077,13 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2024;Olivos;17. Centro de Jubilados y Pensionados Sarmiento;Social;237;650000;0
 2024;Olivos;6. Club 25 de Mayo de Olivos;Deporte;228;30000000;0
 2024;Olivos;25. Escuela de Educación Artística N° 1 (Provincial);Educación;204;30000000;0
-2024;Olivos;20. Centro de Investigaciones Históricas de Vicente López;Social;180;5000000;0
+2024;Olivos;20. Centro de Investigaciones Históricas de Vicente López;Otros/Varios;180;5000000;0
 2024;Olivos;15. Club CAOSA;Deporte;83;30000000;0
 2024;Vicente López;7. Club Círculo Trovador;Deporte;759;30000000;1
 2024;Vicente López;8. Instituto Superior de Formación Docente Nº 39 “Jean Piaget” (Provincial);Educación;592;7600000;1
 2024;Vicente López;1. Cestos de Basura;Medio Ambiente;581;30000000;1
 2024;Vicente López;"15. Centro de Jubilados y Pensionados ""Los del VILO""";Social;567;3100000;1
-2024;Vicente López;5. Parque de Calistenia del Paseo Costero;Espacio Público;566;30000000;1
+2024;Vicente López;5. Parque de Calistenia del Paseo Costero;Deporte;566;30000000;1
 2024;Vicente López;9. Club Banco Ciudad;Deporte;429;30000000;0
 2024;Vicente López;10. Escuela Secundaria Nº 6 (Provincial);Educación;429;7600000;1
 2024;Vicente López;14. Grupo Scout San Gabriel;Social;409;30000000;0
@@ -1105,12 +1104,12 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Carapachay;4. Techo parada de colectivo línea 252;Movilidad;175;7800000;1
 2025;Carapachay;3. Alimentación Saludable;Salud;158;2300000;1
 2025;Carapachay;6. Reinstalación de los antiguos carteles de la Estación Carapachay;Cultura;144;10000000;0
-2025;Carapachay;12. Junta Vecinal Manuel Belgrano;Social;105;5000000;0
+2025;Carapachay;12. Junta Vecinal Manuel Belgrano;Otros/Varios;105;5000000;0
 2025;Carapachay;10. Biblioteca Arturo E. García;Cultura;100;2450000;0
 2025;Carapachay;11. Reductores de velocidad;Movilidad;54;1200000;0
 2025;Florida Este;10. Club Social y Deportivo Estrella Federal;Deporte;631;30000000;1
 2025;Florida Este;11. Cruz Roja Vicente López;Salud;624;30000000;1
-2025;Florida Este;4. APOVILO;Social;612;30000000;1
+2025;Florida Este;4. APOVILO;Salud;612;30000000;1
 2025;Florida Este;5. Sociedad de Fomento Aristóbulo Del Valle;Social;583;30000000;1
 2025;Florida Este;3. Escuela Secundaria N° 8 (provincial);Educación;574;9400000;1
 2025;Florida Este;14. Centro de Jubilados Amigos de la Estación Florida Mitre;Social;552;30000000;0
@@ -1122,7 +1121,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Florida Este;6. La Arena - Escuela de Circo;Educación;307;7800000;0
 2025;Florida Este;17. Club de Tenis Florida;Deporte;278;30000000;0
 2025;Florida Este;21. Puesta en valor pasos peatonales y mejorar iluminación;Seguridad;259;30000000;0
-2025;Florida Este;9. Comunidad Guía N°307- Rosa de los Vientos.;Social;227;12000000;0
+2025;Florida Este;9. Comunidad Guía N°307- Rosa de los Vientos.;Otros/Varios;227;12000000;0
 2025;Florida Este;16. Lazos solidarios entre psicomotricidad y educación;Educación;162;3500000;0
 2025;Florida Este;8. Centro de Formación Integral N°1 (provincial);Educación;150;8300000;0
 2025;Florida Este;15. Alimentación Saludable;Salud;141;3300000;0
@@ -1132,7 +1131,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Florida Oeste;12. Sociedad de Fomento Florida Sud;Social;1199;30000000;1
 2025;Florida Oeste;4. Club Unión Florida;Deporte;744;30000000;1
 2025;Florida Oeste;25. Club Colegiales;Deporte;690;30000000;1
-2025;Florida Oeste;7. UVAFO;Social;611;30000000;1
+2025;Florida Oeste;7. UVAFO;Otros/Varios;611;30000000;1
 2025;Florida Oeste;11. Sociedad de Fomento Hipólito Yrigoyen;Social;545;30000000;0
 2025;Florida Oeste;8. Reparación de vereda;Espacio Público;454;30000000;0
 2025;Florida Oeste;18. Grupo Scout Santa María Magdalena;Social;432;20000000;0
@@ -1193,7 +1192,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Munro;15. Jardín de Infantes 914 (provincial);Educación;132;5760000;0
 2025;Munro;29. Reductores, rampas y senda peatonal;Movilidad;128;3624000;1
 2025;Munro;14. Escuela Primaria 30 (provincial);Educación;127;16000000;0
-2025;Munro;9. Percusión con señas en Munro;Social;116;11310000;0
+2025;Munro;9. Percusión con señas en Munro;Otros/Varios;116;11310000;0
 2025;Munro;21. Alimentación Saludable;Salud;99;3300000;0
 2025;Munro;33. Sociedad de Fomento Sargento Cabral;Social;96;30000000;0
 2025;Munro;7. Los Guardianes de la Tierra;Medio Ambiente;41;3240000;0
@@ -1202,7 +1201,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Olivos;11. Hogar Querubines;Social;763;30000000;1
 2025;Olivos;32. Escuela de Educación Técnica 3 (provincial);Educación;758;30000000;1
 2025;Olivos;2. Club Sarmiento;Deporte;709;30000000;0
-2025;Olivos;17. CIRES Norte;Social;709;30000000;0
+2025;Olivos;17. CIRES Norte;Salud;709;30000000;0
 2025;Olivos;5. Biblioteca Popular de Olivos;Cultura;688;30000000;0
 2025;Olivos;1. Casa de los Jóvenes (Virgen del Carmen);Social;564;4000000;1
 2025;Olivos;24. Centro de Jubilados y Pensionados Sarmiento;Social;491;380000;1
@@ -1225,8 +1224,8 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Olivos;33. Punto Verde;Medio Ambiente;152;12000000;0
 2025;Olivos;21. Semáforo peatonal;Movilidad;128;13644000;0
 2025;Olivos;26. Alimentación Saludable;Salud;118;3300000;0
-2025;Olivos;3. Centro de Guías de Turismo de Vicente López;Cultura;104;220000;1
-2025;Olivos;15. Centro Histórico Vicente López;Social;102;5670000;0
+2025;Olivos;3. Centro de Guías de Turismo de Vicente López;Salud;104;220000;1
+2025;Olivos;15. Centro Histórico Vicente López;Otros/Varios;102;5670000;0
 2025;Olivos;31. Sendas peatonales;Movilidad;101;1105000;0
 2025;Olivos;12. Club CAOSA;Deporte;76;30000000;0
 2025;Olivos;23. Los Guardianes de la Tierra;Medio Ambiente;41;3240000;0
@@ -1234,22 +1233,22 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Vicente López;8. Centro de Jubilados y Pensionados Los del VILO;Social;569;1190000;1
 2025;Vicente López;5. Círculo Trovador;Social;460;30000000;1
 2025;Vicente López;7. Rampas en esquinas;Reparaciones/Obra;458;30000000;1
-2025;Vicente López;14. VILO Rugby;Social;443;30000000;1
+2025;Vicente López;14. VILO Rugby;Deporte;443;30000000;1
 2025;Vicente López;11. Grupo Scout San Gabriel;Social;401;30000000;0
 2025;Vicente López;9. Instituto de Formación Docente 39 (provincial);Educación;376;15000000;0
-2025;Vicente López;3. Senderos del Sembrador;Social;249;30000000;0
+2025;Vicente López;3. Senderos del Sembrador;Otros/Varios;249;30000000;0
 2025;Vicente López;13. Contenedores de residuos;Medio Ambiente;237;2760000;0
 2025;Vicente López;1. Mejorar iluminación en Plaza Bignone;Seguridad;213;30000000;0
 2025;Vicente López;4. Talleres de educación del gusto;Cultura;165;1350000;0
 2025;Vicente López;12. Campaña educativa ecológica;Medio Ambiente;138;2500000;0
 2025;Vicente López;2. Museo Palacio Raggio;Cultura;122;30000000;0
 2025;Vicente López;10. La ecología comienza por casa;Medio Ambiente;113;2800000;0
-2025;Vicente López;15. Geofans;Social;62;6915100;0
+2025;Vicente López;15. Geofans;Otros/Varios;62;6915100;0
 2025;Villa Adelina;3. Club SUVA;Deporte;1518;30000000;1
 2025;Villa Adelina;4. Escuela de Educación Técnica 1 (provincial);Educación;612;30000000;1
 2025;Villa Adelina;8. Grupo Scout Ntra Señora de la Pureza;Social;309;30000000;1
 2025;Villa Adelina;1. Jardín de Infantes 907 (provincial);Educación;280;1560000;0
-2025;Villa Adelina;6. AVAPEA;Social;240;30000000;0
+2025;Villa Adelina;6. AVAPEA;Otros/Varios;240;30000000;0
 2025;Villa Adelina;5. Escuela Secundaria 11 (provincial);Educación;194;22000000;0
 2025;Villa Adelina;10. Escuela Primaria 28 (provincial);Educación;143;30000000;0
 2025;Villa Adelina;7. Club de Leones de Villa Adelina;Deporte;54;10000000;1
@@ -1283,16 +1282,261 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2025;Villa Martelli;10. Entidades de Bien Público de V. Martelli;Cultura;39;1650000;0
 2025;Villa Martelli;4. Los Guardianes de La Tierra;Medio Ambiente;37;3240000;0
 2025;Villa Martelli;12. Asociación Civil Federico Chopin;Social;32;15000000;0
-2018;Olivos;ASOCIACIÓN VECINAL DE FOMENTO Y CULTURA NORTE (CIRES NORTE): construcción de losa para gimnasio y reinstalación de cubierta.;Cultura;2753;7000000;1
+2016;VILLA MARTELLI;Fundación Camino;Social;707;0;0
+2016;VILLA MARTELLI;Centro de Formación Laboral de Villa Martelli;Cultura;371;0;0
+2016;VILLA MARTELLI;ZOONOSIS;Salud;310;0;0
+2016;VILLA MARTELLI;Barrio Habana;Otros/Varios;251;0;0
+2016;VILLA MARTELLI;Reducidores de velocidad;Movilidad;61;0;0
+2016;VILLA MARTELLI;Rampas en Esquinas;Reparaciones/Obra;27;0;0
+2016;FLORIDA OESTE;Jardín Maternal Municipal Nº 8;Salud;1120;0;0
+2016;FLORIDA OESTE;Jardín Maternal Municipal Nº 5;Salud;1006;0;0
+2016;FLORIDA OESTE;Barrio Las Flores;Otros/Varios;931;0;0
+2016;FLORIDA OESTE;Semáforo peatonal;Movilidad;57;0;0
+2016;MUNRO;"Jardín Maternal Municipal Nº 15 ""San Juan Macías""";Salud;624;0;0
+2016;MUNRO;Escuela Primaria Nº 19;Educación;576;0;0
+2016;MUNRO;Jardín de Infantes Municipal Nº 3;Educación;449;0;0
+2016;MUNRO;Jardín Maternal Municipal Nº 14;Salud;811;0;0
+2016;MUNRO;Mejoramiento de iluminación;Seguridad;208;0;0
+2016;MUNRO;Capacitación en reciclaje;Medio Ambiente;84;0;0
+2016;MUNRO;Mejoramiento de iluminación;Seguridad;81;0;0
+2016;MUNRO;Reducidores de velocidad;Movilidad;58;0;0
+2016;MUNRO;UAP Negrete;Salud;115;0;0
+2016;MUNRO;Cestos Papeleros;Medio Ambiente;102;0;0
+2016;CARAPACHAY;Jardín Maternal Municipal Nº 7;Salud;707;0;0
+2016;CARAPACHAY;Escuela Primaria Nº 18 y Escuela Secundaria Nº 3;Educación;296;0;0
+2016;CARAPACHAY;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;296;0;0
+2016;CARAPACHAY;Centro Cultural Municipal de Carapachay;Cultura;145;0;0
+2016;CARAPACHAY;Campaña sobre RCP y primeros auxilios;Salud;101;0;0
+2016;VILLA ADELINA;Escuela Primaria Nº 28;Educación;346;0;0
+2016;VILLA ADELINA;Polideportivo Municipal;Deporte;231;0;0
+2016;VILLA ADELINA;Jardín de Infantes Municipal Nº 7;Educación;262;0;0
+2016;VILLA ADELINA;Escuela de Educación Técnica Nº 1;Educación;260;0;0
+2016;VILLA ADELINA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;166;0;0
+2016;VILLA ADELINA;Reducidores de velocidad;Movilidad;34;0;0
+2016;VILLA ADELINA;Cestos Papeleros;Medio Ambiente;15;0;0
+2016;FLORIDA ESTE;Escuela Primaria Nº 3;Educación;332;0;0
+2016;FLORIDA ESTE;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;318;0;0
+2016;FLORIDA ESTE;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;151;0;0
+2016;FLORIDA ESTE;Campaña sobre RCP y primeros auxilios;Salud;121;0;0
+2016;FLORIDA ESTE;Vallas de contención;Seguridad;96;0;0
+2016;FLORIDA ESTE;ZOONOSIS;Salud;91;0;0
+2016;FLORIDA ESTE;Campaña de promoción de la lectura;Educación;81;0;0
+2016;FLORIDA ESTE;Colocación de un semáforo;Movilidad;67;0;0
+2016;FLORIDA ESTE;"Paseo Cultural ""García Lorca""";Cultura;43;0;0
+2016;FLORIDA ESTE;Camino seguro al Hospital;Salud;198;0;0
+2016;LA LUCILA;"Escuela Primaria Nº 16 ""Marcelino Ugarte""";Cultura;197;0;0
+2016;LA LUCILA;Mejoramiento de iluminación;Seguridad;408;0;0
+2016;LA LUCILA;Parque Paseo Enamour;Espacio Público;325;0;0
+2016;LA LUCILA;Semáforos para peatones;Movilidad;81;0;0
+2016;LA LUCILA;Reducidores de velocidad;Movilidad;26;0;0
+2016;OLIVOS;Jardín Maternal Municipal Nº 16;Salud;1330;0;0
+2016;OLIVOS;Jardín de Infantes Nº 912;Educación;801;0;0
+2016;OLIVOS;Jardín Maternal Municipal Nº 2;Salud;908;0;0
+2016;OLIVOS;Escuela de Educación Especial Nº 502;Educación;538;0;0
+2016;OLIVOS;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;226;0;0
+2016;OLIVOS;Campaña de información sobre el sistema de salud municipal;Salud;167;0;0
+2016;OLIVOS;Demarcación horizontal y vertical;Otros/Varios;23;0;0
+2016;VICENTE LÓPEZ;Instituto Superior de Formación Docente Nº 39;Educación;841;0;0
+2016;VICENTE LÓPEZ;Bomberos Voluntarios de Vicente López;Seguridad;570;0;0
+2016;VICENTE LÓPEZ;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;328;0;0
+2016;VICENTE LÓPEZ;Centro de Adultos Mayores Activos;Social;256;0;0
+2016;VICENTE LÓPEZ;Campañas de concientización sobre reciclado y compostaje;Medio Ambiente;85;0;0
+2016;VICENTE LÓPEZ;Mejoramiento de iluminación;Seguridad;66;0;0
+2015;VILLA MARTELLI;Barrio Habana;Otros/Varios;446;0;0
+2015;VILLA MARTELLI;Escuela Primaria Nº 20;Educación;356;0;0
+2015;VILLA MARTELLI;Jardín de Infantes Nº 918;Educación;278;0;0
+2015;VILLA MARTELLI;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;277;0;0
+2015;VILLA MARTELLI;Escuela Primaria Nº 7;Educación;221;0;0
+2015;VILLA MARTELLI;UAP Llobera y la UAP Ravazzoli;Salud;178;0;0
+2015;VILLA MARTELLI;Mejoramiento de iluminación;Seguridad;82;0;0
+2015;VILLA MARTELLI;Reducidores de velocidad;Movilidad;45;0;0
+2015;VILLA MARTELLI;Organizar actividades deportivas en las Plazas del Barrio;Espacio Público;42;0;0
+2015;VILLA MARTELLI;Señalizar estacionamiento para discapacitados en el Centro Comercial del barrio;Movilidad;38;0;0
+2015;VILLA MARTELLI;Plantar árboles;Medio Ambiente;28;0;0
+2015;VILLA MARTELLI;Campaña de concientización sobre convivencia responsable con animales de compañía;Medio Ambiente;27;0;0
+2015;VILLA MARTELLI;Compra de jaulas trampa para el área de zoonosis;Salud;14;0;0
+2015;FLORIDA OESTE;Escuela Primaria Nº 17;Educación;385;0;0
+2015;FLORIDA OESTE;UAPs Bermúdez,Blanca Acosta y URI R Carrillo;Salud;360;0;0
+2015;FLORIDA OESTE;Sociedad de Fomento Hipólito Yrigoyen;Social;353;0;0
+2015;FLORIDA OESTE;Barrio Las Flores;Otros/Varios;286;0;0
+2015;FLORIDA OESTE;Escuela Primaria Nº 14;Educación;87;0;0
+2015;MUNRO;"Jardín Maternal Municipal Nº 15 ""San Juan Macías""";Salud;728;0;0
+2015;MUNRO;Escuela Primaria Nº 19;Educación;385;0;0
+2015;MUNRO;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;367;0;0
+2015;MUNRO;UAPS: Paul Harris - Padre Barbero - Marzano - Sgto Cabral- Negrete- Barreiro Aguirre;Salud;339;0;0
+2015;MUNRO;Mejorar seguridad vial;Salud;243;0;0
+2015;MUNRO;Campaña de concientización y primeros auxilios;Salud;86;0;0
+2015;MUNRO;Polideportivo de Munro;Deporte;72;0;0
+2015;CARAPACHAY;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;277;0;0
+2015;CARAPACHAY;UAP Burman y UAP 25 de Mayo.;Salud;255;0;0
+2015;CARAPACHAY;Mejoramiento de iluminación;Seguridad;160;0;0
+2015;CARAPACHAY;Mejoramiento de iluminación;Seguridad;68;0;0
+2015;CARAPACHAY;"Plaza DF Sarmiento ""Vida Saludable en la Plaza""";Salud;51;0;0
+2015;CARAPACHAY;Plaza José Ingenieros;Espacio Público;56;0;0
+2015;CARAPACHAY;Mejoraramiento de iluminación;Seguridad;43;0;0
+2015;CARAPACHAY;Reducidores de velocidad;Movilidad;16;0;0
+2015;CARAPACHAY;Reducidores de velocidad;Movilidad;15;0;0
+2015;CARAPACHAY;Reducidores de velocidad;Movilidad;16;0;0
+2015;CARAPACHAY;Reducidores de velocidad;Movilidad;10;0;0
+2015;CARAPACHAY;Reducidores de velocidad;Movilidad;5;0;0
+2015;VILLA ADELINA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;253;0;0
+2015;VILLA ADELINA;Escuela Primaria Nº 28;Educación;249;0;0
+2015;VILLA ADELINA;Escuela de Educación Técnica Nº 1;Educación;228;0;0
+2015;VILLA ADELINA;UAP Scalise;Salud;157;0;0
+2015;VILLA ADELINA;Centro Comercial de Paraná;Otros/Varios;141;0;0
+2015;VILLA ADELINA;Semáforo de giro;Movilidad;85;0;0
+2015;VILLA ADELINA;Mejoramiento de Iluminación;Seguridad;59;0;0
+2015;VILLA ADELINA;Mejoramiento de Iluminación;Seguridad;39;0;0
+2015;VILLA ADELINA;Campaña de concientización sobre convivencia responsable con animales de compañía;Medio Ambiente;39;0;0
+2015;VILLA ADELINA;Torre Ader;Cultura;30;0;0
+2015;VILLA ADELINA;Semáforo;Movilidad;29;0;0
+2015;VILLA ADELINA;Reducidores de velocidad;Movilidad;22;0;0
+2015;VILLA ADELINA;Reducidores de velocidad;Movilidad;6;0;0
+2015;FLORIDA ESTE;Escuela Primaria Nº 3;Educación;437;0;0
+2015;FLORIDA ESTE;Jardín de Infantes Nº 911;Educación;428;0;0
+2015;FLORIDA ESTE;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;404;0;0
+2015;LA LUCILA;Barrio El Ceibo;Otros/Varios;269;0;0
+2015;LA LUCILA;Escuela Primaria Nº 16 “Marcelino Ugarte”;Cultura;253;0;0
+2015;LA LUCILA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;162;0;0
+2015;LA LUCILA;UAP El Ceibo y la UAP Arcuri;Salud;141;0;0
+2015;LA LUCILA;Plantación de especies autóctonas en el barrio;Medio Ambiente;46;0;0
+2015;LA LUCILA;Mejoramiento de iluminación;Seguridad;32;0;0
+2015;LA LUCILA;Campañas de comunicación y difusión para fortalecer la conciencia ambiental;Medio Ambiente;33;0;0
+2015;LA LUCILA;Demarcación y señalización prohibición de estacionar en esquinas donde doblan colectivos;Movilidad;18;0;0
+2015;LA LUCILA;Reducidores de velocidad;Movilidad;5;0;0
+2015;OLIVOS;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;389;0;0
+2015;OLIVOS;Mejoramiento de iluminación;Seguridad;149;0;0
+2015;VICENTE LÓPEZ;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;368;0;0
+2015;VICENTE LÓPEZ;Escuela Secundaria Nº 6;Educación;196;0;0
+2015;VICENTE LÓPEZ;Mejoramiento de iluminación;Seguridad;61;0;0
+2014;VILLA MARTELLI;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;335;0;0
+2014;VILLA MARTELLI;Corte de raíces y reparación de veredas;Espacio Público;257;0;0
+2014;VILLA MARTELLI;Reparación y bacheo;Movilidad;132;0;0
+2014;VILLA MARTELLI;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;118;0;0
+2014;VILLA MARTELLI;Reducidores de velocidad;Movilidad;77;0;0
+2014;VILLA MARTELLI;Barrio Habana;Otros/Varios;75;0;0
+2014;FLORIDA OESTE;Obras complementarias al retén de Plaza La Paz;Espacio Público;323;0;0
+2014;MUNRO;Realización de obras para paliar el efecto de posibles inundaciones;Reparaciones/Obra;269;0;0
+2014;MUNRO;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;234;0;0
+2014;MUNRO;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;89;0;0
+2014;MUNRO;Mejoramiento de iluminación y cámara de seguridad;Salud;73;0;0
+2014;MUNRO;Mejoramiento de iluminación;Seguridad;67;0;0
+2014;MUNRO;Colocación de semáforo y mejoramiento de iluminación;Seguridad;44;0;0
+2014;MUNRO;Construcción de sendero asfáltico;Reparaciones/Obra;26;0;0
+2014;MUNRO;Coro Municipal de Niños;Cultura;10;0;0
+2014;CARAPACHAY;Sociedad de Fomento Drysdale;Social;234;0;0
+2014;CARAPACHAY;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;213;0;0
+2014;CARAPACHAY;Corte de raíces y reparación de veredas;Espacio Público;135;0;0
+2014;CARAPACHAY;Mejoramiento de iluminación y construcción de dársena;Seguridad;105;0;0
+2014;CARAPACHAY;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;56;0;0
+2014;CARAPACHAY;Reposición de árboles;Medio Ambiente;41;0;0
+2014;CARAPACHAY;Mejoramiento de la señalización;Movilidad;34;0;0
+2014;CARAPACHAY;Ordenamiento de la circulación;Otros/Varios;32;0;0
+2014;VILLA ADELINA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;147;0;0
+2014;VILLA ADELINA;Plaza Eduardo Ader;Espacio Público;99;0;0
+2014;VILLA ADELINA;Mejoramiento de iluminación;Seguridad;69;0;0
+2014;VILLA ADELINA;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;47;0;0
+2014;VILLA ADELINA;Plan de reforestación;Otros/Varios;43;0;0
+2014;VILLA ADELINA;Reducidores de velocidad;Movilidad;23;0;0
+2014;VILLA ADELINA;Plaza Eduardo Ader;Espacio Público;18;0;0
+2014;VILLA ADELINA;Colocación de semáforo;Movilidad;14;0;0
+2014;VILLA ADELINA;Colocación de semáforo;Movilidad;9;0;0
+2014;FLORIDA ESTE;Paseo Cultural Federico Garcia Lorca;Cultura;232;0;0
+2014;FLORIDA ESTE;Hospital Municipal Bernardo Houssay;Salud;163;0;0
+2014;FLORIDA ESTE;Obra hidráulica: conductos y sumideros;Reparaciones/Obra;162;0;0
+2014;FLORIDA ESTE;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;80;0;0
+2014;FLORIDA ESTE;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;70;0;0
+2014;FLORIDA ESTE;Colocación y/o reposición de árboles;Medio Ambiente;53;0;0
+2014;FLORIDA ESTE;Mejoramiento de iluminación;Seguridad;20;0;0
+2014;FLORIDA ESTE;Reducidores de velocidad;Movilidad;19;0;0
+2014;LA LUCILA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;178;0;0
+2014;LA LUCILA;Bombas depresoras con cajas antivandalismo;Otros/Varios;156;0;0
+2014;LA LUCILA;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;96;0;0
+2014;LA LUCILA;Colocación de semáforo;Movilidad;54;0;0
+2014;LA LUCILA;Reducidores de velocidad;Movilidad;51;0;0
+2014;LA LUCILA;Colocación de semáforo;Movilidad;34;0;0
+2014;LA LUCILA;Reducidores de velocidad;Movilidad;10;0;0
+2014;LA LUCILA;Reserva Ecológica;Medio Ambiente;0;0;0
+2014;OLIVOS;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;283;0;0
+2014;OLIVOS;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;220;0;0
+2014;OLIVOS;Mejoramiento de la accesibilidad;Movilidad;143;0;0
+2014;OLIVOS;Mejoramiento de iluminación;Seguridad;96;0;0
+2014;OLIVOS;Mejoramiento de iluminación;Seguridad;75;0;0
+2014;OLIVOS;Reducidores de velocidad;Movilidad;52;0;0
+2014;OLIVOS;Reducidores de velocidad;Movilidad;42;0;0
+2014;OLIVOS;Reducidores de velocidad;Movilidad;33;0;0
+2014;OLIVOS;Reducidores de velocidad;Movilidad;23;0;0
+2014;OLIVOS;Reducidores de velocidad;Movilidad;15;0;0
+2014;OLIVOS;Mejoramiento de Iluminación;Seguridad;0;0;0
+2014;OLIVOS;Mejoramiento de Iluminación;Seguridad;0;0;0
+2014;VICENTE LÓPEZ;Jardin de Infantes Nº 901;Educación;58;0;0
+2014;VICENTE LÓPEZ;Campaña educativa en higiene urbana y reciclado;Medio Ambiente;39;0;0
+2014;VICENTE LÓPEZ;Centro Comercial de Vicente López;Otros/Varios;31;0;0
+2014;VICENTE LÓPEZ;Plantar árboles;Medio Ambiente;28;0;0
+2014;VICENTE LÓPEZ;Paseo de La Costa;Espacio Público;27;0;0
+2014;VICENTE LÓPEZ;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;25;0;0
+2014;VICENTE LÓPEZ;Mejoramiento de iluminación;Seguridad;19;0;0
+2014;VICENTE LÓPEZ;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;VILLA MARTELLI;Plaza de las Americas;Espacio Público;0;0;0
+2013;VILLA MARTELLI;Plaza Almafuerte;Espacio Público;0;0;0
+2013;VILLA MARTELLI;Plaza Almafuerte;Espacio Público;0;0;0
+2013;VILLA MARTELLI;Plaza de las Americas;Espacio Público;0;0;0
+2013;VILLA MARTELLI;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;VILLA MARTELLI;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;VILLA MARTELLI;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;FLORIDA OESTE;Plaza La Paz;Espacio Público;0;0;0
+2013;FLORIDA OESTE;Plaza Paseo del Sol;Espacio Público;0;0;0
+2013;FLORIDA OESTE;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;FLORIDA OESTE;"Plaza ""Paseo de las Artes""";Cultura;0;0;0
+2013;MUNRO;Centro Cultural Municipal de Munro;Cultura;0;0;0
+2013;MUNRO;Plaza Güemes;Espacio Público;0;0;0
+2013;MUNRO;Plaza Alem y Plaza Güemes;Espacio Público;0;0;0
+2013;MUNRO;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;CARAPACHAY;Plaza Domingo F. Sarmiento;Espacio Público;0;0;0
+2013;CARAPACHAY;Limpieza, poda y mejoramiento de iluminación;Seguridad;0;0;0
+2013;CARAPACHAY;UAP Paul Harris (Munro);Salud;0;0;0
+2013;CARAPACHAY;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;CARAPACHAY;Centro Cultural Municipal de Carapachay;Cultura;0;0;0
+2013;CARAPACHAY;Rampas en esquinas;Reparaciones/Obra;0;0;0
+2013;CARAPACHAY;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;VILLA ADELINA;Centro Cultural Municipal de Villa Adelina;Cultura;0;0;0
+2013;VILLA ADELINA;Instalación de un Destacamento Policial;Reparaciones/Obra;0;0;0
+2013;VILLA ADELINA;Plaza José Ingenieros;Espacio Público;0;0;0
+2013;VILLA ADELINA;Circuito para realización de actividades aeróbicas;Otros/Varios;0;0;0
+2013;VILLA ADELINA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;VILLA ADELINA;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;VILLA ADELINA;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;VILLA ADELINA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;VILLA ADELINA;Estación Villa Adelina;Otros/Varios;0;0;0
+2013;FLORIDA ESTE;Plaza Libertad;Espacio Público;0;0;0
+2013;FLORIDA ESTE;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;FLORIDA ESTE;Plaza Libertad;Espacio Público;0;0;0
+2013;FLORIDA ESTE;Plaza Octavio Ortiz;Espacio Público;0;0;0
+2013;FLORIDA ESTE;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;FLORIDA ESTE;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;LA LUCILA;Reparación de veredas rotas por raíces de árboles;Medio Ambiente;0;0;0
+2013;LA LUCILA;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;LA LUCILA;Poda, limpieza en general y mejoramiento de iluminación;Seguridad;0;0;0
+2013;OLIVOS;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;OLIVOS;Plaza de los Inmigrantes;Espacio Público;0;0;0
+2013;OLIVOS;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;OLIVOS;"Plaza ""Vicente López y Planes""";Espacio Público;0;0;0
+2013;OLIVOS;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;OLIVOS;Mejoramiento de iluminación;Seguridad;0;0;0
+2013;VICENTE LÓPEZ;Reducidores de velocidad;Movilidad;0;0;0
+2013;VICENTE LÓPEZ;Cámaras de vigilancia urbana conectadas al Centro de Monitoreo Municipal;Seguridad;0;0;0
+2013;VICENTE LÓPEZ;PISTA BMX;Deporte;0;0;0
+2013;VICENTE LÓPEZ;PISTA BMX;Deporte;0;0;0
+2018;Olivos;ASOCIACIÓN VECINAL DE FOMENTO Y CULTURA NORTE (CIRES NORTE): construcción de losa para gimnasio y reinstalación de cubierta.;Salud;2753;7000000;1
 2018;Olivos;ESCUELAS PRIMARIA Y SECUNDARIA Nº 1: equipamiento;Educación;1590;2000000;1
 2018;Olivos;ESCUELA PRIMARIA Nº 2: reparaciones varias en patios;Educación;1498;2000000;0
 2018;Olivos;"COLEGIO VIRGEN DEL CARMEN:Cambiar cielorrasos del comedor y cocina; incluidos los equipos de iluminación. ";Educación;1323;438800;1
 2018;Olivos;Escuela Municipal Paula Albarracín: aires acondicionados y obras varias;Educación;1122;897000;0
 2018;Olivos;CRUZ ROJA: puesto móvil de gestión de emergencias y acción comunitaria;Salud;1048;900000;0
-2018;Olivos;Cámaras de Seguridad: J.B Alberdi y Blas Parera, Barrio La Loma, Bouchard y Pacheco.;Seguridad;898;4675000;0
+2018;Olivos;Cámaras de Seguridad: J.B Alberdi y Blas Parera, Barrio La Loma, Bouchard y Pacheco.;Salud;898;4675000;0
 2018;Olivos;INSTITUTO ANSELMO MARINI: compra de un vehículo de traslado de personas con discapacidad;Educación;889;4316700;0
 2018;Olivos;Escuela Especial Nº 502: equipos de climatización;Educación;859;985000;0
-2018;Olivos;HOSPICE SAN CAMILO: pintura exterior;Reparaciones/Obra;653;434000;0
+2018;Olivos;HOSPICE SAN CAMILO: pintura exterior;Salud;653;434000;0
 2018;Olivos;GRUPO SCOUT H. BOUCHARD: reparación del alambrado perimetral;Reparaciones/Obra;647;178500;1
 2018;Olivos;Escuela Primaria Nº 31 - obras en baños de alumnos y piso de la sala de computación;Educación;613;2000000;0
 2018;Olivos;Jardín Maternal Municipal Nº 16: ampliación del jardín;Salud;610;3500000;0
@@ -1316,7 +1560,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2018;Olivos;Centro Barrial Infantil La Loma: materiales y equipamiento.;Educación;206;286500;0
 2018;Olivos;Sendas peatonales: Ugarte, Villate, Pelliza (de Maipú a Blas Parera);Cultura;174;2912000;0
 2018;Olivos;SALUD EN LA ESCUELA: Talleres de yoga y meditación para alumnos y docentes ;Salud;159;504000;0
-2018;Olivos;Centro de Investigación Histórica Vicente López: equipamiento audiovisual.;Social;141;453120;0
+2018;Olivos;Centro de Investigación Histórica Vicente López: equipamiento audiovisual.;Cultura;141;453120;0
 2018;Olivos;Biblioteca Popular Arandú: colocación de piso flotante y reforma de puerta de ingreso.;Cultura;117;197500;0
 2018;Olivos;Señalizar estacionamiento para discapacitados;Movilidad;75;500500;0
 2018;Villa Martelli;BOMBEROS VOLUNTARIOS DE VICENTE LOPEZ: provisión de una autobomba;Seguridad;2019;5500000;1
@@ -1344,7 +1588,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2018;Florida Oeste;CLUB UNION FLORIDA: vestuarios para la cancha de basquet;Deporte;725;4950000;0
 2018;Florida Oeste;Jardín Las Hormiguitas Bº Las Flores: Remodelación cocina, ampliación sala, piso antigolpes y juegos infantiles;Educación;694;2450000;1
 2018;Florida Oeste;BIBLIOTECA NORA BOMBELLI: equipamiento para el funcionamiento de talleres y seminarios.;Cultura;649;569985;1
-2018;Florida Oeste;SEGURIDAD Y PREVENCIÓN PARA LA COMUNIDAD: CÁMARAS DE VIGILANCIA EN VARIAS UBICACIONES;Seguridad;588;5735000;0
+2018;Florida Oeste;SEGURIDAD Y PREVENCIÓN PARA LA COMUNIDAD: CÁMARAS DE VIGILANCIA EN VARIAS UBICACIONES;Salud;588;5735000;0
 2018;Florida Oeste;Escuela Primaria Manuel Dorrego: Construcción bateria de baños y equipamiento tecnológico.;Educación;569;3450000;0
 2018;Florida Oeste;Jardín de Infantes Nº 912: Reparación de pisos en P.A., de vereda y pintura de sectores.;Educación;544;2000000;0
 2018;Florida Oeste;ESCUELA PRIMARIA Nº 14: Galeria de acceso al comedor;Educación;533;1000000;0
@@ -1374,7 +1618,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2018;Munro;Jardín de Infantes Nº 909: Reparación de la escalera de ingreso.;Educación;601;145300;1
 2018;Munro;CENTRO DE JUBILADOS 'GRACIAS A LA VIDA': Equipamiento (mesas, sillas y un A.A.);Social;529;135600;1
 2018;Munro;ISFT Nº 220 y CFP Nº 402: Equipamiento para las nuevas aulas.;Educación;524;311350;0
-2018;Munro;Carrera de enfermerí­a municipal: Equipamiento para practicas;Social;463;927000;0
+2018;Munro;Carrera de enfermerí­a municipal: Equipamiento para practicas;Otros/Varios;463;927000;0
 2018;Munro;CONTENEDORES DE RESIDUOS EN CENTRO COMERCIAL DE MUNRO (Av. Vélez Sársfield);Medio Ambiente;454;285500;0
 2018;Munro;Jardín Maternal Municipal Nº 14: A.A. para SUM y cocina. Piso antigolpes en el patio;Salud;443;398700;0
 2018;Munro;ESCUELA PRIMARIA Nº 4: Reparaciones y pintura;Educación;437;2000000;0
@@ -1420,7 +1664,7 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2018;Villa Adelina;Poliderportivo Villa Adelina: mesas de ping pong, iluminación de la cancha de basquet;Seguridad;266;978500;1
 2018;Villa Adelina;Escuela Secundaria Básica Nº 21: Mejoras en aulas y equipamiento;Educación;256;840000;0
 2018;Villa Adelina;Semáforo en Castelli y Av. Ader;Movilidad;143;295000;0
-2018;Villa Adelina;Archivo Histórico Municipal 'Torre Ader': equipamiento;Social;125;572500;0
+2018;Villa Adelina;Archivo Histórico Municipal 'Torre Ader': equipamiento;Cultura;125;572500;0
 2018;Villa Adelina;PUNTO DE RECICLADO AUTOMÁTICOS;Medio Ambiente;124;348950;0
 2018;Villa Adelina;Rampas en las esquinas: circuito desde Plaza Ader hasta Estación Villa Adelina;Espacio Público;104;650000;0
 2018;Villa Adelina;MANOS A LA MASA: talleres en escuelas sobre alimentación saludable.;Salud;45;180000;0
@@ -1441,14 +1685,14 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2018;Florida Este;CRUZ ROJA: Escuela de Enfermería, reparación de cubiertas y sanitarios;Salud;1510;1540000;0
 2018;Florida Este;JARDÍN DE INFANTES Nº 911: Reformas para adecuar e integrar espacios.;Educación;923;2000000;0
 2018;Florida Este;ESCUELA SECUNDARIA N° 8: reparación de techos y de instalación eléctrica;Educación;832;1000000;0
-2018;Florida Este;Soc de Fomento A del Valle: vestuarios adaptados y accesibles para mujeres;Social;817;3510000;0
+2018;Florida Este;Soc de Fomento A del Valle: vestuarios adaptados y accesibles para mujeres;Movilidad;817;3510000;0
 2018;Florida Este;ESCUELA PRIMARIA Nº 3: mejoras en el gimnasio cubierto;Educación;714;2000000;0
 2018;Florida Este;ESCUELA SECUNDARIA N° 4: Reparar el gimnasio y el piso del patio;Educación;703;2000000;0
 2018;Florida Este;ESCUELA PRIMARIA Nº 9: reparación de paredes y pintural general.;Educación;635;2000000;0
 2018;Florida Este;ESCUELA PRIMARIA Nº12: Realizar una cubierta en un sector del patio;Educación;624;1600000;0
 2018;Florida Este;ESCUELA SECUNDARIA Nº 7: mejoras edilicias y tecnológicas;Educación;518;2000000;0
 2018;Florida Este;CAMARAS DE VIGILANCIA URBANA: Güemes y Warnes y zona del Hospital Houssay;Salud;508;2536000;0
-2018;Florida Este;ASOC SEGUIR CRECIENDO: alero en el frente y galeria en el patio interior.;Social;468;600000;0
+2018;Florida Este;ASOC SEGUIR CRECIENDO: alero en el frente y galeria en el patio interior.;Reparaciones/Obra;468;600000;0
 2018;Florida Este;Centro de Formación Laboral Nº1: instalar un ascensor, provisión de horno y reparaciones varias;Educación;444;2000000;0
 2018;Florida Este;Jardín de Infantes Municipal Nº1: construcción de nuevo ambiente en planta alta;Educación;420;7000000;0
 2018;Florida Este;JARDÍN MATERNAL MUNICIPAL N° 10: cerramiento móvil para el patio de la planta alta;Salud;418;900000;0
@@ -1464,11 +1708,11 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2018;Florida Este;Señalización de espacios de estacionamiento para personas con discapacidad;Movilidad;96;500500;0
 2018;Florida Este;Plan de fomento de lectura en la infancia: talleres en escuelas del barrio.;Cultura;70;60000;0
 2018;Florida Este;Reducidores de velocidad en Güemes y Warnes;Movilidad;62;62500;0
-2018;Florida Este;Héroes de Vicente López, Gente que trabaja: publicación de un libro;Social;24;700000;0
+2018;Florida Este;Héroes de Vicente López, Gente que trabaja: publicación de un libro;Cultura;24;700000;0
 2018;Vicente López;Bomberos Voluntarios de Vicente López: equipos estructurales, equipos de respiración autónoma y accesorios;Seguridad;2788;4500000;0
 2018;Vicente López;Club VILO: instalar un piso de césped sintético en cancha de fútbol;Deporte;2179;6800000;0
 2018;Vicente López;ISFD Nº 39:  Nva. etapa para el Centro Cultural Jean Piaget ;Cultura;1525;1500000;0
-2018;Vicente López;CENTRO ASTURIANO: construcción de baños y duchas para deportistas de Tenis Adaptado.;Reparaciones/Obra;643;2240000;0
+2018;Vicente López;CENTRO ASTURIANO: construcción de baños y duchas para deportistas de Tenis Adaptado.;Salud;643;2240000;0
 2018;Vicente López;ESCUELA SECUNDARIA Nº 6: remodelación baños 2ª etapa;Educación;571;1500000;0
 2018;Vicente López;CAMARAS DE VIGILANCIA URBANA (varias ubicaciones);Seguridad;534;345000;0
 2018;Vicente López;ESCUELA PRIMARIA Nº 8: construcción de galeria, patio y reparaciones;Educación;297;2000000;0
@@ -1480,4 +1724,4 @@ año;barrio;proyecto;categoria;votos;presupuesto;ganador_bin
 2018;Vicente López;SEMÁFOROS PEATONALES EN AV. MAIPÚ: Colocar contadores de cuenta regresiva;Movilidad;171;7000000;0
 2018;Vicente López;PASEO DE LA COSTA: mejorar iluminación en el sector deportivo;Seguridad;164;1800000;0
 2018;Vicente López;Campaña de revaloración de la tercera edad en Centros de Jubilados del barrio;Social;134;307700;0
-2018;Vicente López;PASEO DE LA COSTA: ejercitadores y barras de calistenia;Social;116;1780000;0
+2018;Vicente López;PASEO DE LA COSTA: ejercitadores y barras de calistenia;Deporte;116;1780000;0
