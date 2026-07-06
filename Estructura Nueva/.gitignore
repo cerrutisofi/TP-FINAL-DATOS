@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.pyc
+presupuesto_participativo.db
+.venv/
+venv/
