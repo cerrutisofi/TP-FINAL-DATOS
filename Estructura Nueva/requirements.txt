@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+pandas
+requests
+pydantic
+sqlalchemy
+python-dotenv
+scikit-learn
+joblib
+openpyxl
