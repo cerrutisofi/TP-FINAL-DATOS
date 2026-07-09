@@ -44,6 +44,10 @@ def verificar_permiso(x_api_key: str = Header(...)):
 def leer_raiz():
     return {"mensaje": "Bienvenido al sistema de predicción de Presupuesto Participativo"}
 
+@app.post("/login", dependencies=[Depends(verificar_permiso)])
+def login():
+    return {"mensaje": "Login exitoso"}
+
 
 @app.get("/localidades", dependencies=[Depends(verificar_permiso)])
 def obtener_localidades():
