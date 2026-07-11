@@ -12,8 +12,8 @@ import joblib
 import pandas as pd
 
 DIR_BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-RUTA_MODELO = os.path.join(DIR_BASE, "modelos", "modelo_presupuesto_participativo.pkl")
-RUTA_CENSO = os.path.join(DIR_BASE, "data", "censo_2022_vicente_lopez.xlsx")
+RUTA_MODELO = os.path.join(DIR_BASE,"MACHINE_LEARNING","modelo_presupuesto_participativo.pkl")
+RUTA_CENSO = os.path.join(DIR_BASE,"DATOS","Datos procesados","Censo_2022_final.xlsx")
 
 _modelo = None
 _df_censo = None
@@ -89,7 +89,7 @@ def _calcular_tasas(df):
         "Población\ncon asistencia escolar",
         "Población económicamente activa ocupada",
         "0-14", "15-64", "65-100 y mas",
-        "Total Poblacional",
+        "Total poblacional",
     ]
     df.drop(columns=[c for c in cols_originales if c in df.columns], inplace=True)
     return df

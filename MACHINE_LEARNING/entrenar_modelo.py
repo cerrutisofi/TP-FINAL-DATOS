@@ -26,16 +26,26 @@ from sklearn.metrics import accuracy_score, classification_report, roc_auc_score
 import warnings
 warnings.filterwarnings("ignore")
 
-# ==========================================
-# 0. RUTAS
-# ==========================================
+# Definimos las rutas
 DIR_BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DIR_DATA = os.path.join(DIR_BASE, "data")
-DIR_MODELOS = os.path.join(DIR_BASE, "modelos")
 
-RUTA_DATASET_PROYECTOS = os.path.join(DIR_DATA, "dataset_final_vilo.csv")
-RUTA_CENSO = os.path.join(DIR_DATA, "censo_2022_vicente_lopez.xlsx")
-RUTA_MODELO_SALIDA = os.path.join(DIR_MODELOS, "modelo_presupuesto_participativo.pkl")
+DIR_DATA = os.path.join(DIR_BASE, "DATOS", "Datos procesados")
+DIR_MODELOS = os.path.join(DIR_BASE, "MACHINE_LEARNING")
+
+RUTA_DATASET_PROYECTOS = os.path.join(
+    DIR_DATA,
+    "dataset_final_vilo.csv"
+)
+
+RUTA_CENSO = os.path.join(
+    DIR_DATA,
+    "Censo_2022_final.xlsx"
+)
+
+RUTA_MODELO_SALIDA = os.path.join(
+    DIR_MODELOS,
+    "modelo_presupuesto_participativo.pkl"
+)
 
 os.makedirs(DIR_MODELOS, exist_ok=True)
 
@@ -114,7 +124,7 @@ def preprocesar(df, df_censo_2022):
         "Población\ncon asistencia escolar",
         "Población económicamente activa ocupada",
         "0-14", "15-64", "65-100 y mas",
-        "Total Poblacional",
+        "Total poblacional",
     ]
     df_definitivo.drop(columns=cols_originales_tasas, inplace=True, errors="ignore")
 
@@ -205,3 +215,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+

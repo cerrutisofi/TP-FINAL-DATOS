@@ -8,7 +8,7 @@ import os
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # La base de datos siempre se guarda dentro de BACKEND
-URL_BASE_DATOS = f"sqlite:///{os.path.join(BASE_DIR, 'proyectos.db')}"
+URL_BASE_DATOS = f"sqlite:///{os.path.join(BASE_DIR, 'proyectos_presup.db')}"
 
 engine = create_engine(URL_BASE_DATOS, connect_args={"check_same_thread": False})
 SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)

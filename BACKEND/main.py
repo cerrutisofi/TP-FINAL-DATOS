@@ -2,9 +2,12 @@ from fastapi import FastAPI, Depends, HTTPException
 from sqlalchemy.orm import Session
 
 # Importamos nuestros módulos separados (Arquitectura Limpia)
-from database import get_db, ProyectoDB
-from esquemas import ProyectoInput, ProyectoResultado, ProyectoHistorico
-from MACHINE_LEARNING.modelo import predecir_aprobacion, localidades_disponibles
+from .database import get_db, ProyectoDB
+from .esquemas import ProyectoInput, ProyectoResultado, ProyectoHistorico
+from MACHINE_LEARNING.modelo import (
+    predecir_aprobacion,
+    localidades_disponibles,
+)
 #Configuramos la API
 
 app = FastAPI(
