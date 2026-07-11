@@ -9,15 +9,6 @@ from esquemas import ProyectoInput, ProyectoResultado, ProyectoHistorico
 from ml.modelo import predecir_aprobacion, localidades_disponibles
 
 # ==========================================
-# 0. CARGA DE SECRETOS (.env)
-# ==========================================
-load_dotenv()
-TOKEN_MINISTERIAL = os.getenv("TOKEN_MINISTERIAL")
-
-if not TOKEN_MINISTERIAL:
-    raise RuntimeError("🚨 Falta la credencial de seguridad TOKEN_MINISTERIAL en el archivo .env")
-
-# ==========================================
 # 1. CONFIGURACIÓN DE LA API
 # ==========================================
 app = FastAPI(
