@@ -3,6 +3,7 @@ import streamlit as st
 import pandas as pd
 from graficos import(grafico_categoria_localidad, grafico_presupuesto, grafico_localidad, grafico_categorias)
 from estilos import cargar_estilos
+from pathlib import Path
 
 st.title("📊 Dashboard de análisis histórico")
 st.markdown("Análisis histórico a partir de los proyectos presentados en el presupuesto participativo de Vicente López (2013-2025)")
@@ -11,11 +12,16 @@ st.markdown("Análisis histórico a partir de los proyectos presentados en el pr
 @st.cache_data
 def cargar_datos():
 
-    df = pd.read_csv(
-        "../BACKEND/DATOS/Datos procesados/dataset_final_vilo.csv",
-        sep=";"
+    BASE_DIR = Path(__file__).resolve().parents[3]
+
+    ruta_csv = (
+        BASE_DIR
+        / "DATOS"
+        / "Datos procesados"
+        / "dataset_final_vilo.csv"
     )
 
+    df = pd.read_csv(ruta_csv, sep =";")
     return df
 
 

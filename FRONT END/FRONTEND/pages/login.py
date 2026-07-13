@@ -3,10 +3,13 @@ import streamlit as st
 import requests
 from estilos import cargar_estilos
 cargar_estilos()
+from pathlib import Path
 
 col1, col2 = st.columns([2, 6])
 with col1:
-    st.image("logo-mvl.png", width=200)
+    LOGO = Path(__file__).resolve().parent.parent / "logo-mvl.png"
+    st.image(str(LOGO), width=200)
+
 with col2:
     st.title("Iniciar sesión")
 

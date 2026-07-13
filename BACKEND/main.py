@@ -4,8 +4,13 @@ from dotenv import load_dotenv
 import os
 
 # Importamos nuestros módulos separados (Arquitectura Limpia)
-from database import get_db, ProyectoDB
-from esquemas import ProyectoInput, ProyectoResultado, ProyectoHistorico
+try:
+    from .database import get_db, ProyectoDB
+    from .esquemas import ProyectoInput, ProyectoResultado, ProyectoHistorico
+except ImportError:
+    from database import get_db, ProyectoDB
+    from esquemas import ProyectoInput, ProyectoResultado, ProyectoHistorico
+
 from MACHINE_LEARNING.modelo import (
     predecir_aprobacion,
     localidades_disponibles,
@@ -24,9 +29,9 @@ app = FastAPI(
 
 # Cargar CLAVE, después nos va a servir para la página de LOGIN
 load_dotenv()
-CLAVE = os.getenv("CLAVE")
+CLAVE = os.getenv("CLAVE") or os.getenv("CLAVE")
 if not CLAVE:
-    raise RuntimeError("Falta TOKEN_MINISTERIAL en el archivo .env")
+    raise RuntimeError("Falta la variable de entorno CLAVE  en el archivo .env")
 
 # Función de seguridad. Idem anterior, servirá para el LOGIN
 

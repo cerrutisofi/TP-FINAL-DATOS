@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 from estilos import cargar_estilos
 cargar_estilos()
+from pathlib import Path
 
 # Verificamos si el usuario inició sesión
 if not st.session_state.get("logueado", False):
@@ -44,7 +45,8 @@ st.set_page_config(
 
 col1, col2 = st.columns([2, 6])
 with col1:
-    st.image("logo_pp.jpg", width=200)
+    LOGO = Path(__file__).resolve().parent.parent / "logo_pp.jpg"
+    st.image(str(LOGO), width=200)
 with col2:
     st.title("Predicción de proyectos nuevos")
 
