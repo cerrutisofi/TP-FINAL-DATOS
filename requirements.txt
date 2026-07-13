@@ -9,3 +9,5 @@ python-dotenv
 scikit-learn
 joblib
 openpyxl
+plotly
+numpy
