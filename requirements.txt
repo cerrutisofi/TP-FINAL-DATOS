@@ -11,3 +11,5 @@ joblib
 openpyxl
 plotly
 numpy
+matplotlib
+seaborn
