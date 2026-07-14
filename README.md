@@ -48,15 +48,19 @@ TP FINAL DATOS
 │   └── proyectos_presup.db    # Base de datos (automáticamente generada)
 │
 ├── DATOS
-│   ├── Datos crudos/
+│   ├── Datos crudos/          # Excel de los resultados de las votaciones, barrios y delegaciones
 │   ├── Datos procesados/
 │   ├── Info adicional/
-|   └── prueba_datos.ipynb     #Limpieza y normalización de datos
+|   └── prueba_datos.ipynb     # Limpieza y normalización de datos
 |
 ├── FRONT END
-│   ├── estilos.py
-│   ├── frontend.py
-│   ├── graficos.py
+│   ├── pages/
+|         ├── analisis.py      # Muestra gráficos con datos históricos. Acceso público
+|         ├── login.py         # Primera pág de la web. Verifica APIKey
+|         └── principal.py     # Pág principal, aquí se presenta la predicción
+│   ├── estilos.py             # Diseño de la web
+│   ├── frontend.py            # Inicio de app, control de inicio de sesión, preguntas de la web y navegación
+│   ├── graficos.py            # Construcción de gráficos a usar 
 |   ├── logo-mvl.png
 |   └── logo_pp.jpg
 |
