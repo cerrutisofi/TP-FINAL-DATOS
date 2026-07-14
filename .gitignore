@@ -1,7 +1,6 @@
 .env
 __pycache__/
 *.pyc
-proyectos_presup.db
 .venv/
 venv/
 *.db
