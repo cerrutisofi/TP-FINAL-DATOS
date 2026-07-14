@@ -11,7 +11,7 @@
 
 ## 🎯 Planteo del proyecto
 
-El objetivo del programa es proporcionar a los ciudadanos y gestores públicos una herramienta analítica basada en machine learning que no solo prediga la viabilidad de los proyectos vecinales, sino que haga explícitos los trade-offs entre el costo (presupuesto requerido), el alcance (población beneficiada) y el impacto del proyecto.
+El objetivo del programa es proporcionar a los ciudadanos y gestores públicos una herramienta analítica basada en machine learning que no solo prediga la viabilidad de los proyectos vecinales, sino que haga explícitas las variables relevantes para la aprobación o no.
 
 > A través de un enfoque de inteligencia artificial explicable, el sistema permitirá entender cómo las personas priorizan distintas alternativas cuando los recursos son limitados, identificando qué factores específicos (geográficos, económicos o temáticos) influyen realmente en las decisiones y el éxito de una propuesta.
 
@@ -83,7 +83,6 @@ TP FINAL DATOS
 | **VISUALIZACIÓN** | `seaborn`, `matplotlib` |
 | **MACHINE LEARNING** | `scikit-learn` |
 | **MODELO** | `Random Forest` |
-| **EXPLICABILIDAD** | `SHAP (Shapley Additive exPlanations)` |
 | **NOTEBOOKS** | `jupyter lab` |
 | **API/SERVE** | `fastapi`, `uvicorn` |
 | **BASE DE DATOS** | `SQLite`, `SQLAlchemy` |
