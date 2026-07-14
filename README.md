@@ -104,10 +104,21 @@ El modelo entrenado ya se incluye en modelos/modelo_presupuesto_participativo.pk
 ```text
 python -m MACHINE_LEARNING.entrenar_modelo
 ```
-📊 Sobre el modelo
-. Algoritmo: RandomForestClassifier (scikit-learn), optimizado con GridSearchCV (5-fold StratifiedKFold, métrica roc_auc).
-. Features: presupuesto del proyecto, localidad, categoría, y variables sociodemográficas derivadas del Censo 2022 (tasas de género, escolaridad, actividad económica y franjas etarias)
-. Target: Ganador_bin (1 = proyecto ganador, 0 = no ganador).
+---
+## 📊 Sobre el modelo
+
+- **Algoritmo:** `RandomForestClassifier` (scikit-learn), optimizado mediante `GridSearchCV` utilizando validación cruzada `StratifiedKFold` de 5 particiones y la métrica **ROC AUC**.
+
+- **Variables de entrada (features):**
+  - Presupuesto del proyecto.
+  - Localidad.
+  - Categoría.
+  - Variables sociodemográficas derivadas del **Censo Nacional 2022** de Vicente López, incluyendo tasas de género, escolaridad, actividad económica y distribución por franjas etarias.
+
+- **Variable objetivo (target):**
+  - `Ganador_bin`, donde:
+    - `1` = Proyecto ganador.
+    - `0` = Proyecto no ganador.
 ---
 ### 🚀 Levantar el backend (API)
 ```text
