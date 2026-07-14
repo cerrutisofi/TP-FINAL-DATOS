@@ -1,7 +1,7 @@
 """
 Módulo de inferencia del modelo de Presupuesto Participativo.
 
-Carga el pipeline entrenado (RandomForest) generado por `ml/entrenar_modelo.py`
+Carga el pipeline entrenado (RandomForest) generado por `MACHINE_LEARNING/entrenar_modelo.py`
 y el Censo 2022 de Vicente López, y expone `predecir_aprobacion(...)`
 replicando exactamente el preprocesamiento usado durante el entrenamiento
 (ver notebook `Presupuesto_Participativo_Random_Forest.ipynb`).

@@ -3,7 +3,7 @@ from sqlalchemy.orm import sessionmaker, declarative_base
 from datetime import datetime
 import os
 
-# Creamos un archivo local llamado proyectos.db
+# Creamos un archivo local llamado proyectos_presup.db
 # Carpeta donde está este archivo (database.py)
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 

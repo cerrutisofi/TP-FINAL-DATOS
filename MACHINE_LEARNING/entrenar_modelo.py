@@ -1,5 +1,5 @@
 """
-Script de entrenamiento del modelo de Presupuesto Participativo.
+Entrenamiento del modelo de Presupuesto Participativo.
 
 Reproduce el flujo desarrollado en la notebook
 `Presupuesto_Participativo_Random_Forest.ipynb` (TP Final - DS4PS / Vicente López)
@@ -7,8 +7,6 @@ de forma productiva: carga los datos, preprocesa, entrena un RandomForest con
 GridSearchCV y exporta el pipeline final entrenado como .pkl para ser
 consumido por la API (main.py).
 
-Uso:
-    python -m ml.entrenar_modelo
 """
 
 import os
@@ -51,7 +49,7 @@ os.makedirs(DIR_MODELOS, exist_ok=True)
 
 
 def cargar_datos():
-    """Carga el dataset de proyectos y el censo 2022 desde /data."""
+    """Carga el dataset de proyectos y el censo 2022 desde /DATOS."""
     df = pd.read_csv(RUTA_DATASET_PROYECTOS, sep=";", header=0)
     df_censo_2022 = pd.read_excel(RUTA_CENSO)
 
@@ -61,7 +59,6 @@ def cargar_datos():
 
 
 def preprocesar(df, df_censo_2022):
-    """Aplica el mismo preprocesamiento que la notebook original."""
 
     # Corrección de columnas con valores mixtos en el censo
     columnas_a_limpiar = ["Perforación con bomba manual", "Pozo sin bomba"]
