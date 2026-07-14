@@ -53,7 +53,7 @@ with col2:
 st.markdown(
     "Sistema de predicción de nuevos proyectos del presupuesto participativo de Vicente López"
 )
-# 3. Obtenemos las localidades disponibles desde la API (censo 2022)
+# Obtenemos las localidades disponibles desde la API (censo 2022)
 localidades_default = [
     "Carapachay", "Florida Este", "Florida Oeste", "La Lucila", "Munro",
     "Olivos", "Vicente López", "Villa Adelina", "Villa Martelli",
@@ -72,7 +72,7 @@ categorias_default = [
     "Construcción y reparaciones edilicias", "Salud",
     "Espacios verdes y recreación", "Cultura y deportes",
 ]
-# 4. Interfaz de usuario - Formulario del nuevo proyecto
+# Interfaz de usuario - Formulario del nuevo proyecto
 st.subheader("Nuevo proyecto a evaluar")
 col1, col2 = st.columns(2)
 with col1:
@@ -117,3 +117,22 @@ if st.button("Predecir viabilidad"):
 
 if st.button("📊 Ver análisis histórico y gráficos"):
     st.switch_page("pages/analisis.py")
+
+# Histórico de predicciones
+st.subheader("Histórico de predicciones sobre nuevos proyectos")
+if st.button("Actualizar histórico"):
+    try:
+        respuesta = requests.get(f"{URL_API_BASE}/historico", headers=credenciales, timeout=10)
+        if respuesta.status_code == 200:
+            datos = respuesta.json()
+            if datos:
+                df_historico = pd.DataFrame(datos)
+                st.dataframe(df_historico, use_container_width=True)
+            else:
+                st.info("Todavía no hay proyectos evaluados.")
+        elif respuesta.status_code == 401:
+            st.error("🚨 Acceso Denegado. Verifique su API Key.")
+        else:
+            st.error(f"🚨 Error en el servidor: {respuesta.status_code}")
+    except requests.exceptions.ConnectionError:
+        st.error("🚨 No se pudo conectar al Backend. ¿Está encendida la API?")

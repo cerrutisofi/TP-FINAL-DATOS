@@ -29,7 +29,7 @@ app = FastAPI(
 
 # Cargar CLAVE, después nos va a servir para la página de LOGIN
 load_dotenv()
-CLAVE = os.getenv("CLAVE") or os.getenv("CLAVE")
+CLAVE = os.getenv("CLAVE")
 if not CLAVE:
     raise RuntimeError("Falta la variable de entorno CLAVE  en el archivo .env")
 
