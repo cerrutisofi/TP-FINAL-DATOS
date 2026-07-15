@@ -141,6 +141,6 @@ Endpoints principales
 ## 🖥️ Levantar el frontend (Streamlit) En otra terminal (con el backend corriendo):
 En otra terminal (con el backend corriendo):
 ```text
-streamlit run frontend.py
+streamlit run FRONT END/FRONTEND/frontend.py
 ```
 
