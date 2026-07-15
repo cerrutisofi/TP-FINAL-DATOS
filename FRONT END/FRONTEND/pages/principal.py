@@ -82,7 +82,7 @@ with col2:
     presupuesto_ingresado = st.number_input(
         "Presupuesto estimado ($)", min_value=0, value=1_000_000, step=50_000
     )
-# 5. El Botón de Acción
+# El Botón de Acción
 if st.button("Predecir viabilidad"):
     url_api = f"{URL_API_BASE}/predecir"
     payload = {
