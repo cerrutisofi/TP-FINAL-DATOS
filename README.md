@@ -138,7 +138,7 @@ Endpoints principales
 | GET    | /historico   | Historial            |
 
 ---
-###🖥️ Levantar el frontend (Streamlit)
+## 🖥️ Levantar el frontend (Streamlit) En otra terminal (con el backend corriendo):
 En otra terminal (con el backend corriendo):
 ```text
 streamlit run frontend.py
