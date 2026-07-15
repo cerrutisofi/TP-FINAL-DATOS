@@ -132,7 +132,7 @@ La API queda disponible en http://127.0.0.1:8080. Documentación interactiva en 
 Endpoints principales
 | Método | Endpoint     | Descripción          |
 | ------ | ------------ | -------------------- |
-| GET    | /leer_raiz   | Bienvenida           |
+| GET    | /            | Bienvenida           |
 | GET    | /localidades | Lista de localidades |
 | POST   | /predecir    | Predicción           |
 | GET    | /historico   | Historial            |
