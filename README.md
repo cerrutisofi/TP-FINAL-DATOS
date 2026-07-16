@@ -144,3 +144,8 @@ En otra terminal (con el backend corriendo):
 streamlit run FRONT END/FRONTEND/frontend.py
 ```
 
+---
+## Demo en vivo
+- Frontend: https://vilo-propone.streamlit.app/
+- Backend (API): https://vilo-propone-rzdp.onrender.com/
+
