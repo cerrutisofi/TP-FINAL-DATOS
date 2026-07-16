@@ -17,7 +17,7 @@ st.markdown("Bienvenid@ a ViLo Propone, un sistema de predicción de viabilidad 
 
 URL_API_BASE = st.text_input(
     "URL de la API",
-    value="http://127.0.0.1:8080"
+    value="https://vilo-propone-rzdp.onrender.com"
 )
 st.subheader("Clave (API Key)")
 API_KEY = st.text_input(
